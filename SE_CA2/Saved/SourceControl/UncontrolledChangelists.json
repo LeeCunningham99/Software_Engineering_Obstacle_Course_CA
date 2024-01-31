@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XD/E6CMD9V9OZ6UJO3MCUPE51.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/42/ENYZMYJIET6J4A845NS6CU.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JX/6NX1OU07JHJLA50551YQ8N.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QD/N4THC9QMOQZQC8RVLR7VJ7.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/S3/M2WNL05A5IQ9XKQMR5W8D2.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5J/6F6R63ZGV3FX79TSAW6CPF.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/PI/FCDL2A3B3RO8MMUL8EEDYC.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0N/LSKS0J37DEB1ID0U7B4RS9.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YI/T5D4HR8D3AU9QCX3LTXS8B.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/76/YCGIQO8C9H21OQQS35JT33.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0E/MU00DT81MLHP8VS7Y0ITU5.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/42OW5YXCTCLL71R38XQNP0.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OC/SD3NI1ZGG76KU3BI86A0WX.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/XB/XGK2EHEZ277N0DJAWR99R3.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/DD/SD3MV4UYDJKYEAIGC3XAL1.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/1/WY/VA7W07HEYEEPQL9X1W9M4I.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/N1/93AKDI027UXE89N596X70X.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/C5/7ANV7A8Q8XDTWPJV01LY55.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/66/BD8TRR15OIE1C1F2KXOYLD.uasset",
+				"E:/MSc_Computer_Animation/Y1/Software_Engineering/SE_CA2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/RO/NK7YYM6F3HJU5X6E9T2892.uasset"
+			]
+		}
+	]
+}
