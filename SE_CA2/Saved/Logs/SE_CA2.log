@@ -7733,3 +7733,1011 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
 [2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.Material /Game/3D-Models/Tree_Platform/Tree_Platform_Wood.Tree_Platform_Wood
 [2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/3D-Models/Tree_Platform/Old_Wood.Old_Wood
+[2024.03.19-21.13.13:496][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.13.13:496][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.13.13:497][993]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_19
+[2024.03.19-21.13.14:347][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.13.14:347][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.13.14:350][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_1866160663
+[2024.03.19-21.13.28:071][311]Cmd: DELETE
+[2024.03.19-21.13.28:071][311]Cmd: ACTOR DELETE
+[2024.03.19-21.13.28:076][311]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.13.28:092][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.19-21.13.28:102][311]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.03.19-21.13.28:811][386]Cmd: DELETE
+[2024.03.19-21.13.28:811][386]Cmd: ACTOR DELETE
+[2024.03.19-21.13.28:815][386]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.13.28:829][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.13.28:832][386]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.13.29:969][509]Cmd: DELETE
+[2024.03.19-21.13.29:969][509]Cmd: ACTOR DELETE
+[2024.03.19-21.13.29:977][509]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.13.29:989][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.13.29:993][509]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.14.39:223][763]Cmd: EDIT COPY
+[2024.03.19-21.14.39:399][784]Cmd: EDIT PASTE
+[2024.03.19-21.15.00:051][126]Cmd: EDIT COPY
+[2024.03.19-21.15.00:051][126]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.03.19-21.15.00:229][145]Cmd: EDIT PASTE
+[2024.03.19-21.15.16:344][941]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.19-21.15.16:344][941]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.19-21.15.16:355][941]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 10 ms (total: 223 ms)
+[2024.03.19-21.15.16:355][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-21.15.16:355][941]PIE: New page: PIE session: Zip-It (19 Mar 2024, 21:15:16)
+[2024.03.19-21.15.16:358][941]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.15.16:394][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036017s)
+[2024.03.19-21.15.16:394][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.036051s)
+[2024.03.19-21.15.16:403][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.19-21.15.16:411][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.15.16:411][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.15.16:411][941]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.19-21.15.16:412][941]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.19-21.15.16:412][941]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.19-21.15.16:412][941]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.19-21.15.16:412][941]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.19-21.15.16:421][941]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.19-21.15.16:421][941]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 899 ms)
+[2024.03.19-21.15.16:421][941]LogPlayLevel: PIE: World Init took: (0.010498s)
+[2024.03.19-21.15.16:421][941]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-21.15.16:421][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-21.15.16:421][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-21.15.16:422][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-21.15.16:422][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-21.15.16:422][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-21.15.16:424][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-21.15.16:444][941]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.19-21.15.16:445][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-21.15.16:445][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-21.15.16:445][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-21.15.16:446][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.19-21.15.16:446][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.19-21.15.16:447][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.19-21.15.16:447][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.19-21.15.16:447][941]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.19-21.15.16:447][941]LogAudio: Display: Audio Device (ID: 22) registered with world 'Zip-It'.
+[2024.03.19-21.15.16:447][941]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.19-21.15.16:453][941]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.19-21.15.16:475][941]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.19-21.15.16
+[2024.03.19-21.15.16:475][941]LogWorld: Bringing up level for play took: 0.021114
+[2024.03.19-21.15.16:477][941]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.03.19-21.15.16:482][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.19-21.15.16:482][941]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.19-21.15.16:482][941]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.19-21.15.16:482][941]PIE: Server logged in
+[2024.03.19-21.15.16:483][941]PIE: Play in editor total start time 0.139 seconds.
+[2024.03.19-21.15.19:839][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.15.19:839][307]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.15.19:840][307]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.15.19:843][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.15.19:843][307]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.19-21.15.19:847][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-21.15.19:850][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.15.19:866][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.15.19:869][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.19-21.15.19:869][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.19-21.15.19:870][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.19-21.15.19:881][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.19-21.15.20:007][308]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.03.19-21.15.26:573][990]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.19-21.15.26:573][990]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.19-21.15.26:585][990]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 11 ms (total: 235 ms)
+[2024.03.19-21.15.26:585][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-21.15.26:585][990]PIE: New page: PIE session: Zip-It (19 Mar 2024, 21:15:26)
+[2024.03.19-21.15.26:585][990]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.15.26:628][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042913s)
+[2024.03.19-21.15.26:628][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.042945s)
+[2024.03.19-21.15.26:643][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.19-21.15.26:648][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.15.26:648][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.15.26:648][990]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.19-21.15.26:649][990]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.19-21.15.26:649][990]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.19-21.15.26:649][990]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.19-21.15.26:649][990]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.19-21.15.26:659][990]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.19-21.15.26:659][990]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 909 ms)
+[2024.03.19-21.15.26:659][990]LogPlayLevel: PIE: World Init took: (0.011344s)
+[2024.03.19-21.15.26:659][990]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-21.15.26:659][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-21.15.26:659][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-21.15.26:660][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-21.15.26:660][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-21.15.26:660][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-21.15.26:661][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-21.15.26:682][990]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.19-21.15.26:682][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-21.15.26:682][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-21.15.26:682][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-21.15.26:683][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.19-21.15.26:683][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.19-21.15.26:684][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.19-21.15.26:684][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.19-21.15.26:684][990]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.19-21.15.26:684][990]LogAudio: Display: Audio Device (ID: 23) registered with world 'Zip-It'.
+[2024.03.19-21.15.26:684][990]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.19-21.15.26:687][990]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.19-21.15.26:710][990]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.19-21.15.26
+[2024.03.19-21.15.26:711][990]LogWorld: Bringing up level for play took: 0.023432
+[2024.03.19-21.15.26:713][990]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.03.19-21.15.26:718][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.19-21.15.26:718][990]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.19-21.15.26:718][990]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.19-21.15.26:718][990]PIE: Server logged in
+[2024.03.19-21.15.26:719][990]PIE: Play in editor total start time 0.146 seconds.
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 0 (Found bundle for host: 0x9134e970b70 [serially])
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 9 (  Trying 3.222.204.55:443...)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.222.204.55) port 443)
+[2024.03.19-21.15.37:717][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: 0000091EB61CE100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.15.37:718][825]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.15.38:949][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.15.38:949][913]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.15.38:950][913]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.15.38:953][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.15.38:953][913]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.19-21.15.38:958][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-21.15.38:965][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.15.38:981][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.19-21.15.38:981][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.19-21.15.38:981][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.19-21.15.38:983][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.19-21.15.38:986][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.15.38:996][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.19-21.15.39:098][914]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.03.19-21.15.52:110][ 13]Cmd: DELETE
+[2024.03.19-21.15.52:110][ 13]Cmd: ACTOR DELETE
+[2024.03.19-21.15.52:114][ 13]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.15.52:127][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.19-21.15.52:133][ 13]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.03.19-21.15.52:801][ 86]Cmd: DELETE
+[2024.03.19-21.15.52:801][ 86]Cmd: ACTOR DELETE
+[2024.03.19-21.15.52:805][ 86]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.15.52:817][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.15.52:820][ 86]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.03.19-21.15.55:803][425]Cmd: EDIT COPY
+[2024.03.19-21.15.55:963][444]Cmd: EDIT PASTE
+[2024.03.19-21.16.16:052][653]Cmd: EDIT COPY
+[2024.03.19-21.16.16:230][669]Cmd: EDIT PASTE
+[2024.03.19-21.18.01:632][600]LogSlate: Window 'Message Log' being destroyed
+[2024.03.19-21.18.01:638][600]LogSlate: Window 'Message Log' being destroyed
+[2024.03.19-21.18.09:145][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.19-21.18.09:156][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.18.09:199][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.19-21.18.09:211][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.18.09:229][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.18.09:233][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/F5/INSW80BKNP3H117ZJAHAZF
+[2024.03.19-21.18.09:233][392]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/INSW80BKNP3H117ZJAHAZFECDEE04A47B8031F4AF6DD84F742F3CD.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/F5/INSW80BKNP3H117ZJAHAZF.uasset'
+[2024.03.19-21.18.09:234][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/RC/PQEIKJZYNKOH015IF05SQS
+[2024.03.19-21.18.09:235][392]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/PQEIKJZYNKOH015IF05SQSE97ECF8D4D88B12D3781839666649DF2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/RC/PQEIKJZYNKOH015IF05SQS.uasset'
+[2024.03.19-21.18.09:236][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/YK/J805329NRA42WEFMYF722H
+[2024.03.19-21.18.09:236][392]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/J805329NRA42WEFMYF722HFD0E793D4A1C5260ADCB78B321C4CBA7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/YK/J805329NRA42WEFMYF722H.uasset'
+[2024.03.19-21.18.09:238][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/QM/WWTA1PNAU76KY1OO8AVR6X
+[2024.03.19-21.18.09:238][392]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/WWTA1PNAU76KY1OO8AVR6X78645D5B4187ABF05BF47693D65BAAF6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/QM/WWTA1PNAU76KY1OO8AVR6X.uasset'
+[2024.03.19-21.18.09:239][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/V1/LHH1UU6RR46TA2MSKHQDL4
+[2024.03.19-21.18.09:239][392]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/LHH1UU6RR46TA2MSKHQDL40EBA07854AE934F5BDD0ACBF93EC42D0.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/V1/LHH1UU6RR46TA2MSKHQDL4.uasset'
+[2024.03.19-21.18.09:259][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.01 sec)
+[2024.03.19-21.18.09:262][392]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.18.09:262][392]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_1866160663
+[2024.03.19-21.18.09:262][392]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_1951212664
+[2024.03.19-21.18.09:262][392]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_1972043665
+[2024.03.19-21.18.09:262][392]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_2027777666
+[2024.03.19-21.18.09:262][392]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5604E401_2048044667
+[2024.03.19-21.18.13:236][832]Cmd: DELETE
+[2024.03.19-21.18.13:236][832]Cmd: ACTOR DELETE
+[2024.03.19-21.18.13:240][832]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.18.13:252][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.19-21.18.13:257][832]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.18.14:073][923]Cmd: DELETE
+[2024.03.19-21.18.14:073][923]Cmd: ACTOR DELETE
+[2024.03.19-21.18.14:077][923]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.18.14:088][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.18.14:091][923]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.03.19-21.18.14:670][984]Cmd: DELETE
+[2024.03.19-21.18.14:670][984]Cmd: ACTOR DELETE
+[2024.03.19-21.18.14:673][984]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.18.14:686][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.18.14:689][984]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.03.19-21.18.17:224][285]Cmd: EDIT PASTE
+[2024.03.19-21.18.59:443][103]Cmd: EDIT COPY
+[2024.03.19-21.18.59:613][123]Cmd: EDIT PASTE
+[2024.03.19-21.19.14:051][784]Cmd: EDIT COPY
+[2024.03.19-21.19.14:211][803]Cmd: EDIT PASTE
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 0 (Found bundle for host: 0x9134e970bd0 [serially])
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 9 (  Trying 3.222.204.55:443...)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.222.204.55) port 443)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: 0000091EBAAF1900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.19.37:706][483]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 0 (Found bundle for host: 0x9134e970240 [serially])
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 9 (  Trying 3.222.204.55:443...)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.222.204.55) port 443)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.21.38:183][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: 0000091EBB22C800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.21.38:184][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.21.47:837][ 33]Cmd: DELETE
+[2024.03.19-21.21.47:837][ 33]Cmd: ACTOR DELETE
+[2024.03.19-21.21.47:842][ 33]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.21.47:853][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.19-21.21.47:869][ 33]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.03.19-21.21.48:644][119]Cmd: DELETE
+[2024.03.19-21.21.48:644][119]Cmd: ACTOR DELETE
+[2024.03.19-21.21.48:647][119]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.21.48:661][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.21.48:664][119]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.03.19-21.21.50:042][274]Cmd: DELETE
+[2024.03.19-21.21.50:042][274]Cmd: ACTOR DELETE
+[2024.03.19-21.21.50:046][274]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.21.50:057][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.21.50:060][274]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.03.19-21.21.51:341][426]Cmd: EDIT PASTE
+[2024.03.19-21.22.37:421][677]Cmd: EDIT COPY
+[2024.03.19-21.22.37:606][692]Cmd: EDIT PASTE
+[2024.03.19-21.23.20:468][663]Cmd: DELETE
+[2024.03.19-21.23.20:468][663]Cmd: ACTOR DELETE
+[2024.03.19-21.23.20:472][663]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.23.20:488][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.19-21.23.20:498][663]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.03.19-21.23.20:943][708]Cmd: DELETE
+[2024.03.19-21.23.20:943][708]Cmd: ACTOR DELETE
+[2024.03.19-21.23.20:947][708]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.23.20:958][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.23.20:961][708]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.03.19-21.23.21:433][758]Cmd: DELETE
+[2024.03.19-21.23.21:433][758]Cmd: ACTOR DELETE
+[2024.03.19-21.23.21:437][758]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.23.21:451][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.23.21:454][758]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.23.25:217][188]Cmd: EDIT COPY
+[2024.03.19-21.23.25:409][211]Cmd: EDIT PASTE
+[2024.03.19-21.24.06:657][868]Cmd: EDIT COPY
+[2024.03.19-21.24.06:808][886]Cmd: EDIT PASTE
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 0 (Found bundle for host: 0x9134e970900 [serially])
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 9 (  Trying 3.222.204.55:443...)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.222.204.55) port 443)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.24.37:715][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: 000009146689B400: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.24.37:716][365]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.25.52:177][662]Cmd: DELETE
+[2024.03.19-21.25.52:177][662]Cmd: ACTOR DELETE
+[2024.03.19-21.25.52:181][662]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.25.52:195][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.19-21.25.52:204][662]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.03.19-21.25.52:369][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.25.52:373][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/RA/L5VOBKP9BL9RXWJ8JD4ZKL_Auto6
+[2024.03.19-21.25.52:373][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/L5VOBKP9BL9RXWJ8JD4ZKL_Auto6D6A5237E4733D447E438CA8D81E61743.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/RA/L5VOBKP9BL9RXWJ8JD4ZKL_Auto6.uasset'
+[2024.03.19-21.25.52:376][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/CO/M6UEYO2EBBN04C7S2PEOA6_Auto6
+[2024.03.19-21.25.52:376][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/M6UEYO2EBBN04C7S2PEOA6_Auto6CDA9C0514725BD6652FCDB99797F44B1.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/CO/M6UEYO2EBBN04C7S2PEOA6_Auto6.uasset'
+[2024.03.19-21.25.52:378][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/ED/LSQGDMPQH02JL0NYRVGNQS_Auto6
+[2024.03.19-21.25.52:378][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/LSQGDMPQH02JL0NYRVGNQS_Auto6A58772024DE4DD23DCE5CD85966631FD.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/ED/LSQGDMPQH02JL0NYRVGNQS_Auto6.uasset'
+[2024.03.19-21.25.52:379][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/IZ/I3D7VJFYSBICJXYSC1RAQV_Auto6
+[2024.03.19-21.25.52:379][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/I3D7VJFYSBICJXYSC1RAQV_Auto66682C08B45F78FB687DCFAB90AE63EC2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/IZ/I3D7VJFYSBICJXYSC1RAQV_Auto6.uasset'
+[2024.03.19-21.25.52:381][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/2T/RKTXJ3UJPIOUXZ2YCSKL2O_Auto6
+[2024.03.19-21.25.52:381][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/RKTXJ3UJPIOUXZ2YCSKL2O_Auto63A54FB4F461560DDACF35C92625EF88F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/2T/RKTXJ3UJPIOUXZ2YCSKL2O_Auto6.uasset'
+[2024.03.19-21.25.52:382][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/YE/9ZY8TMLJCHD6XO0IGSA5XD_Auto6
+[2024.03.19-21.25.52:382][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/9ZY8TMLJCHD6XO0IGSA5XD_Auto60AAA44D04B2160CF8545DEBC67317D2E.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/YE/9ZY8TMLJCHD6XO0IGSA5XD_Auto6.uasset'
+[2024.03.19-21.25.52:384][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/27/9I30WWK0OQPXT7657OPFKC_Auto6
+[2024.03.19-21.25.52:384][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/9I30WWK0OQPXT7657OPFKC_Auto61F7153504129D202AD1FDDAF56C33E04.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/27/9I30WWK0OQPXT7657OPFKC_Auto6.uasset'
+[2024.03.19-21.25.52:385][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/RI/8VQF04AJKW03NJNYALKBDG_Auto6
+[2024.03.19-21.25.52:385][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/8VQF04AJKW03NJNYALKBDG_Auto62859B19D483DB63426987E8D87DCAE28.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/RI/8VQF04AJKW03NJNYALKBDG_Auto6.uasset'
+[2024.03.19-21.25.52:387][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/II/QCQ60D9A1KVZ1DNG9JR02N_Auto6
+[2024.03.19-21.25.52:387][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/QCQ60D9A1KVZ1DNG9JR02N_Auto6589367CB43DE948611CE70A0C6B61D0E.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/II/QCQ60D9A1KVZ1DNG9JR02N_Auto6.uasset'
+[2024.03.19-21.25.52:388][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/QB/FZIA58XGP6CFDTP7T8GG33_Auto6
+[2024.03.19-21.25.52:388][674]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/FZIA58XGP6CFDTP7T8GG33_Auto64930E39D41EC1EB7633D019995D82D62.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/QB/FZIA58XGP6CFDTP7T8GG33_Auto6.uasset'
+[2024.03.19-21.25.52:389][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.040
+[2024.03.19-21.25.52:389][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2024.03.19-21.25.52:951][734]Cmd: DELETE
+[2024.03.19-21.25.52:951][734]Cmd: ACTOR DELETE
+[2024.03.19-21.25.52:956][734]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.25.52:968][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.25.52:971][734]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.03.19-21.25.55:736][ 52]Cmd: EDIT COPY
+[2024.03.19-21.25.55:905][ 70]Cmd: EDIT PASTE
+[2024.03.19-21.26.30:299][967]Cmd: EDIT COPY
+[2024.03.19-21.26.30:434][983]Cmd: EDIT PASTE
+[2024.03.19-21.26.59:776][291]Cmd: EDIT COPY
+[2024.03.19-21.26.59:944][311]Cmd: EDIT PASTE
+[2024.03.19-21.27.28:233][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.19-21.27.28:245][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.27.28:296][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.03.19-21.27.28:307][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.03.19-21.27.28:321][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.03.19-21.27.28:333][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/RA/L5VOBKP9BL9RXWJ8JD4ZKL
+[2024.03.19-21.27.28:333][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/L5VOBKP9BL9RXWJ8JD4ZKLC14A4F4E409905960DDE538AEA6CC9C7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/RA/L5VOBKP9BL9RXWJ8JD4ZKL.uasset'
+[2024.03.19-21.27.28:336][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/CO/M6UEYO2EBBN04C7S2PEOA6
+[2024.03.19-21.27.28:337][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/M6UEYO2EBBN04C7S2PEOA69E44C4884366FD37C576929628DD5DEA.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/CO/M6UEYO2EBBN04C7S2PEOA6.uasset'
+[2024.03.19-21.27.28:339][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/ED/LSQGDMPQH02JL0NYRVGNQS
+[2024.03.19-21.27.28:339][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/LSQGDMPQH02JL0NYRVGNQS0DC6BEBF4E3D3A16520C45A222B25481.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/ED/LSQGDMPQH02JL0NYRVGNQS.uasset'
+[2024.03.19-21.27.28:340][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/IZ/I3D7VJFYSBICJXYSC1RAQV
+[2024.03.19-21.27.28:340][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/I3D7VJFYSBICJXYSC1RAQV25E0C8974CDB7AD1EAC22DB5D63DB0E2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/IZ/I3D7VJFYSBICJXYSC1RAQV.uasset'
+[2024.03.19-21.27.28:341][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/2T/RKTXJ3UJPIOUXZ2YCSKL2O
+[2024.03.19-21.27.28:341][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/RKTXJ3UJPIOUXZ2YCSKL2OA2F4EAE44A1856969035E09A088E11C5.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/2T/RKTXJ3UJPIOUXZ2YCSKL2O.uasset'
+[2024.03.19-21.27.28:343][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/YE/9ZY8TMLJCHD6XO0IGSA5XD
+[2024.03.19-21.27.28:343][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/9ZY8TMLJCHD6XO0IGSA5XDB94CED644DB1F5BDA0D20195AA80B0FB.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/YE/9ZY8TMLJCHD6XO0IGSA5XD.uasset'
+[2024.03.19-21.27.28:344][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/27/9I30WWK0OQPXT7657OPFKC
+[2024.03.19-21.27.28:344][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/9I30WWK0OQPXT7657OPFKCF3984FB848A10B149372178810390DF2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/27/9I30WWK0OQPXT7657OPFKC.uasset'
+[2024.03.19-21.27.28:351][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/RI/8VQF04AJKW03NJNYALKBDG
+[2024.03.19-21.27.28:351][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/8VQF04AJKW03NJNYALKBDG638DCC94415083790F318CAC3BB97D9D.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/RI/8VQF04AJKW03NJNYALKBDG.uasset'
+[2024.03.19-21.27.28:354][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/II/QCQ60D9A1KVZ1DNG9JR02N
+[2024.03.19-21.27.28:354][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/QCQ60D9A1KVZ1DNG9JR02NB9446CF2441D0F00E2508A9CA6F6D192.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/II/QCQ60D9A1KVZ1DNG9JR02N.uasset'
+[2024.03.19-21.27.28:356][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/QB/FZIA58XGP6CFDTP7T8GG33
+[2024.03.19-21.27.28:356][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/FZIA58XGP6CFDTP7T8GG33DB87E4D145ADFAB42E3F9287E7EC6F0F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/QB/FZIA58XGP6CFDTP7T8GG33.uasset'
+[2024.03.19-21.27.28:357][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/0Q/Q24UELAGZF1YV20XUVP6U7
+[2024.03.19-21.27.28:357][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Q24UELAGZF1YV20XUVP6U711A2666841A89F20BB414FBC7AA07555.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/0Q/Q24UELAGZF1YV20XUVP6U7.uasset'
+[2024.03.19-21.27.28:359][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/EE/8TLW9MGN8NRGWPXMGKLU4A
+[2024.03.19-21.27.28:359][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/8TLW9MGN8NRGWPXMGKLU4AA2E85C6E4AE1369507B852932CCA2A22.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/EE/8TLW9MGN8NRGWPXMGKLU4A.uasset'
+[2024.03.19-21.27.28:360][555]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/F/2H/7GQ1YI10ST32W3IH4QLG10
+[2024.03.19-21.27.28:360][555]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/7GQ1YI10ST32W3IH4QLG10D2D889824788B4E46FA89FAE0F4D52D5.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/F/2H/7GQ1YI10ST32W3IH4QLG10.uasset'
+[2024.03.19-21.27.28:379][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.15 sec)
+[2024.03.19-21.27.28:382][555]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.27.28:382][555]LogContentValidation: Display: Validating /Game/Zipline/Blueprint/BP_Zipline.BP_Zipline_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Zipline_C_UAID_18C04D36BA567CDB01_1814954249
+[2024.03.19-21.27.28:382][555]LogContentValidation: Display: Validating /Game/Zipline/Blueprint/BP_Zipline.BP_Zipline_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Zipline_C_UAID_18C04D36BA567CDB01_1906709250
+[2024.03.19-21.27.28:382][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1095296844
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1137685845
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1152283846
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1309413847
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1355678848
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1403481849
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1403483850
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1444880851
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1553977852
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1588506853
+[2024.03.19-21.27.28:383][555]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1618016854
+[2024.03.19-21.28.35:541][692]Cmd: DELETE
+[2024.03.19-21.28.35:541][692]Cmd: ACTOR DELETE
+[2024.03.19-21.28.35:545][692]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.28.35:557][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.19-21.28.35:562][692]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.28.36:197][761]Cmd: DELETE
+[2024.03.19-21.28.36:197][761]Cmd: ACTOR DELETE
+[2024.03.19-21.28.36:201][761]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.28.36:212][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.19-21.28.36:215][761]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.03.19-21.28.36:770][819]Cmd: DELETE
+[2024.03.19-21.28.36:770][819]Cmd: ACTOR DELETE
+[2024.03.19-21.28.36:774][819]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.28.36:787][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.03.19-21.28.36:790][819]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.03.19-21.28.37:307][872]Cmd: DELETE
+[2024.03.19-21.28.37:307][872]Cmd: ACTOR DELETE
+[2024.03.19-21.28.37:311][872]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.28.37:326][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.28.37:329][872]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.03.19-21.28.38:971][ 47]Cmd: DELETE
+[2024.03.19-21.28.38:972][ 47]Cmd: ACTOR DELETE
+[2024.03.19-21.28.38:977][ 47]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.28.38:992][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.28.38:996][ 47]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.28.41:354][327]Cmd: EDIT PASTE
+[2024.03.19-21.30.18:216][448]Cmd: EDIT COPY
+[2024.03.19-21.30.18:391][469]Cmd: EDIT PASTE
+[2024.03.19-21.31.11:578][693]Cmd: EDIT COPY
+[2024.03.19-21.31.11:722][709]Cmd: EDIT PASTE
+[2024.03.19-21.31.23:880][ 57]Cmd: DELETE
+[2024.03.19-21.31.23:880][ 57]Cmd: ACTOR DELETE
+[2024.03.19-21.31.23:884][ 57]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.31.23:898][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.19-21.31.23:907][ 57]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.03.19-21.31.24:616][135]Cmd: DELETE
+[2024.03.19-21.31.24:616][135]Cmd: ACTOR DELETE
+[2024.03.19-21.31.24:619][135]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.31.24:631][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.31.24:634][135]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.03.19-21.31.29:667][709]Cmd: EDIT COPY
+[2024.03.19-21.31.29:836][729]Cmd: EDIT PASTE
+[2024.03.19-21.31.57:273][873]Cmd: EDIT COPY
+[2024.03.19-21.31.57:449][894]Cmd: EDIT PASTE
+[2024.03.19-21.32.12:732][662]Cmd: DELETE
+[2024.03.19-21.32.12:732][662]Cmd: ACTOR DELETE
+[2024.03.19-21.32.12:736][662]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.32.12:754][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.19-21.32.12:761][662]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.03.19-21.32.13:474][741]Cmd: DELETE
+[2024.03.19-21.32.13:474][741]Cmd: ACTOR DELETE
+[2024.03.19-21.32.13:481][741]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.32.13:498][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.32.13:502][741]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.03.19-21.32.14:298][830]Cmd: DELETE
+[2024.03.19-21.32.14:298][830]Cmd: ACTOR DELETE
+[2024.03.19-21.32.14:302][830]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.32.14:314][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.32.14:317][830]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.03.19-21.32.15:199][929]Cmd: DELETE
+[2024.03.19-21.32.15:199][929]Cmd: ACTOR DELETE
+[2024.03.19-21.32.15:203][929]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.32.15:219][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.32.15:222][929]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.03.19-21.32.16:729][ 97]Cmd: EDIT COPY
+[2024.03.19-21.32.16:903][116]Cmd: EDIT PASTE
+[2024.03.19-21.33.10:613][397]Cmd: EDIT COPY
+[2024.03.19-21.33.10:774][416]Cmd: EDIT PASTE
+[2024.03.19-21.33.21:916][650]Cmd: EDIT COPY
+[2024.03.19-21.33.22:090][663]Cmd: EDIT PASTE
+[2024.03.19-21.33.34:056][971]Cmd: EDIT COPY
+[2024.03.19-21.33.34:209][988]Cmd: EDIT PASTE
+[2024.03.19-21.34.20:758][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.19-21.34.20:771][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.34.20:821][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.34.20:833][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.03.19-21.34.20:845][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.03.19-21.34.20:849][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/YT/T17G5AV7PVON4UGMA39YSF
+[2024.03.19-21.34.20:849][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/T17G5AV7PVON4UGMA39YSF3103E211455CDEDFA2F2CCB3E9F5D2D7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/YT/T17G5AV7PVON4UGMA39YSF.uasset'
+[2024.03.19-21.34.20:851][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/F1/QS97D3USVME4BT6YX9V774
+[2024.03.19-21.34.20:851][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/QS97D3USVME4BT6YX9V7745CA90CFC48FFA633DB405F81C0D53B70.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/F1/QS97D3USVME4BT6YX9V774.uasset'
+[2024.03.19-21.34.20:853][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/XH/W59NAKYE56NANB6YP97G82
+[2024.03.19-21.34.20:853][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W59NAKYE56NANB6YP97G820AB3B2984D3E6A1182363289AFABDE2A.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/XH/W59NAKYE56NANB6YP97G82.uasset'
+[2024.03.19-21.34.20:855][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/7E/6T5I7TXETJ4F204VFIGVIH
+[2024.03.19-21.34.20:855][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/6T5I7TXETJ4F204VFIGVIH1498313247DDD4A861DFC88053CC9965.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/7E/6T5I7TXETJ4F204VFIGVIH.uasset'
+[2024.03.19-21.34.20:858][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/16/ZQAOLKXSH50LFU2XRLVYOF
+[2024.03.19-21.34.20:858][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/ZQAOLKXSH50LFU2XRLVYOFA8E6D6564F6DAB6D739189A62DA2559F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/16/ZQAOLKXSH50LFU2XRLVYOF.uasset'
+[2024.03.19-21.34.20:861][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/N8/71JT5YBXFI6SJQALX38V2D
+[2024.03.19-21.34.20:861][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/71JT5YBXFI6SJQALX38V2D124CE8864CD2C0E73CB977AE850645E0.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/N8/71JT5YBXFI6SJQALX38V2D.uasset'
+[2024.03.19-21.34.20:863][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/HA/OR08N4W28TM57VIOZZRPA7
+[2024.03.19-21.34.20:863][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/OR08N4W28TM57VIOZZRPA75CA0855E4CB8F7B54191B59092BF8DC2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/HA/OR08N4W28TM57VIOZZRPA7.uasset'
+[2024.03.19-21.34.20:864][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/LU/G50Q9L5DPJJO8J9R6HHE1O
+[2024.03.19-21.34.20:864][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/G50Q9L5DPJJO8J9R6HHE1O6021C6C64BFD81E4FA8C71859BC36041.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/LU/G50Q9L5DPJJO8J9R6HHE1O.uasset'
+[2024.03.19-21.34.20:866][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/U0/2AP06MS8UKYU6YO6VAIFLI
+[2024.03.19-21.34.20:866][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/2AP06MS8UKYU6YO6VAIFLIE365AF0C4C445BF9E565F6930F7FCB98.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/U0/2AP06MS8UKYU6YO6VAIFLI.uasset'
+[2024.03.19-21.34.20:867][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/BK/ZCRI8PSSQLQGDAQV7X2K82
+[2024.03.19-21.34.20:868][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/ZCRI8PSSQLQGDAQV7X2K82698CFF06483DD332A1005188F5A0E04B.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/BK/ZCRI8PSSQLQGDAQV7X2K82.uasset'
+[2024.03.19-21.34.20:869][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/BQ/Z4HVU9OX5HBG6F3CK78D6L
+[2024.03.19-21.34.20:869][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Z4HVU9OX5HBG6F3CK78D6L46BF43394919353EA68C3DB085A1E56C.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/BQ/Z4HVU9OX5HBG6F3CK78D6L.uasset'
+[2024.03.19-21.34.20:870][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/20/4194WFZ1RCJAZ6AKN9W7VH
+[2024.03.19-21.34.20:870][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/4194WFZ1RCJAZ6AKN9W7VHF5EA810A4F8C49726DE58AA96A47796C.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/20/4194WFZ1RCJAZ6AKN9W7VH.uasset'
+[2024.03.19-21.34.20:872][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/8G/UXZAGK9SKV8OYLF8CLI0RW
+[2024.03.19-21.34.20:872][  1]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/UXZAGK9SKV8OYLF8CLI0RWAB826188481DF33C2DC6E7A4243F20F0.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/6/8G/UXZAGK9SKV8OYLF8CLI0RW.uasset'
+[2024.03.19-21.34.20:891][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 6.27 sec)
+[2024.03.19-21.34.20:896][  1]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1719427855
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1816463856
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1869794857
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1887907858
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1887910859
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1887910860
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1915521861
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1934975862
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_1988846863
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2000162864
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2012281865
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2012282866
+[2024.03.19-21.34.20:896][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2012283867
+[2024.03.19-21.34.32:234][276]Cmd: DELETE
+[2024.03.19-21.34.32:234][276]Cmd: ACTOR DELETE
+[2024.03.19-21.34.32:242][276]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.34.32:258][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.19-21.34.32:263][276]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.03.19-21.34.32:935][345]Cmd: DELETE
+[2024.03.19-21.34.32:935][345]Cmd: ACTOR DELETE
+[2024.03.19-21.34.32:939][345]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.34.32:955][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.19-21.34.32:958][345]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.03.19-21.34.34:372][504]Cmd: DELETE
+[2024.03.19-21.34.34:373][504]Cmd: ACTOR DELETE
+[2024.03.19-21.34.34:377][504]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.34.34:389][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.19-21.34.34:392][504]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 0 (Found bundle for host: 0x9134e970420 [serially])
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 9 (  Trying 3.231.20.149:443...)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.231.20.149) port 443)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: 0000091EBCB53200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.34.37:769][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.34.38:271][945]Cmd: EDIT COPY
+[2024.03.19-21.34.38:698][996]Cmd: EDIT PASTE
+[2024.03.19-21.35.44:770][739]Cmd: DELETE
+[2024.03.19-21.35.44:770][739]Cmd: ACTOR DELETE
+[2024.03.19-21.35.44:774][739]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.35.44:791][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.19-21.35.44:798][739]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.03.19-21.35.45:274][788]Cmd: DELETE
+[2024.03.19-21.35.45:274][788]Cmd: ACTOR DELETE
+[2024.03.19-21.35.45:278][788]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.35.45:295][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.35.45:298][788]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.03.19-21.35.45:783][838]Cmd: DELETE
+[2024.03.19-21.35.45:783][838]Cmd: ACTOR DELETE
+[2024.03.19-21.35.45:787][838]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.35.45:807][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.35.45:810][838]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.03.19-21.35.46:133][868]Cmd: DELETE
+[2024.03.19-21.35.46:133][868]Cmd: ACTOR DELETE
+[2024.03.19-21.35.46:138][868]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.35.46:155][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.19-21.35.46:158][868]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.35.48:161][ 95]Cmd: EDIT COPY
+[2024.03.19-21.35.48:329][115]Cmd: EDIT PASTE
+[2024.03.19-21.36.03:582][852]Cmd: EDIT COPY
+[2024.03.19-21.36.03:773][864]Cmd: EDIT PASTE
+[2024.03.19-21.36.17:563][416]Cmd: EDIT COPY
+[2024.03.19-21.36.17:730][436]Cmd: EDIT PASTE
+[2024.03.19-21.36.22:654][  9]Cmd: DELETE
+[2024.03.19-21.36.22:654][  9]Cmd: ACTOR DELETE
+[2024.03.19-21.36.22:658][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.19-21.36.22:675][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.19-21.36.22:685][  9]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.03.19-21.36.48:622][218]Cmd: DELETE
+[2024.03.19-21.36.48:622][218]Cmd: ACTOR DELETE
+[2024.03.19-21.36.48:627][218]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.36.48:640][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.36.48:645][218]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.03.19-21.36.49:054][261]Cmd: DELETE
+[2024.03.19-21.36.49:054][261]Cmd: ACTOR DELETE
+[2024.03.19-21.36.49:057][261]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.36.49:077][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.36.49:080][261]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.03.19-21.36.53:069][725]Cmd: EDIT COPY
+[2024.03.19-21.36.53:261][748]Cmd: EDIT PASTE
+[2024.03.19-21.37.19:058][714]Cmd: EDIT COPY
+[2024.03.19-21.37.19:225][734]Cmd: EDIT PASTE
+[2024.03.19-21.38.25:042][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.19-21.38.25:052][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.38.25:101][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.38.25:121][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.19-21.38.25:142][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.19-21.38.25:146][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/LF/1PDUWYL4MSVNR7H03ICEWK
+[2024.03.19-21.38.25:146][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/1PDUWYL4MSVNR7H03ICEWK58020A1C4F0136F6DFE3D2A6CD48A3B3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/LF/1PDUWYL4MSVNR7H03ICEWK.uasset'
+[2024.03.19-21.38.25:148][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/KQ/GZR9DY05KM24XF4IA63SVP
+[2024.03.19-21.38.25:148][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/GZR9DY05KM24XF4IA63SVPC4D46E6945E504F2F51DC2B4D5A2CEB9.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/KQ/GZR9DY05KM24XF4IA63SVP.uasset'
+[2024.03.19-21.38.25:149][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/IU/WZKMOO9CCFSN2CSP2R762F
+[2024.03.19-21.38.25:149][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/WZKMOO9CCFSN2CSP2R762F4D371ADE43487DAB4E7E848F73DA09C3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/9/IU/WZKMOO9CCFSN2CSP2R762F.uasset'
+[2024.03.19-21.38.25:151][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/X4/T91N78TSKFKY9TJUXSTSVU
+[2024.03.19-21.38.25:151][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/T91N78TSKFKY9TJUXSTSVUCF86704642B4322FD6389BABB9E01EF2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/X4/T91N78TSKFKY9TJUXSTSVU.uasset'
+[2024.03.19-21.38.25:153][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/F/4R/K9EESFF5BT78RPS92IGTMJ
+[2024.03.19-21.38.25:153][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/K9EESFF5BT78RPS92IGTMJA39D5172457DAEBAC0C8B18E89C3B88D.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/F/4R/K9EESFF5BT78RPS92IGTMJ.uasset'
+[2024.03.19-21.38.25:159][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/DR/FR0CWL148NTBBET7F07DR6
+[2024.03.19-21.38.25:159][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/FR0CWL148NTBBET7F07DR6AA449272497974BDC82ACC9E7593BE12.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/DR/FR0CWL148NTBBET7F07DR6.uasset'
+[2024.03.19-21.38.25:161][384]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/XX/ZWAAXRCP2CZ8X6Z5ZF8ZJN
+[2024.03.19-21.38.25:161][384]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/ZWAAXRCP2CZ8X6Z5ZF8ZJN1FE90AED46566A94D81E80BA9CEC374C.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/XX/ZWAAXRCP2CZ8X6Z5ZF8ZJN.uasset'
+[2024.03.19-21.38.25:180][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 6.39 sec)
+[2024.03.19-21.38.25:185][384]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA56FFE301_1542889753
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2076770868
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2076772869
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5605E401_2146401870
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1088104047
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1137592049
+[2024.03.19-21.38.25:185][384]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1163555050
+[2024.03.19-21.38.26:735][562]Cmd: DELETE
+[2024.03.19-21.38.26:736][562]Cmd: ACTOR DELETE
+[2024.03.19-21.38.26:739][562]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.38.26:761][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.19-21.38.26:766][562]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.03.19-21.38.27:483][642]Cmd: DELETE
+[2024.03.19-21.38.27:483][642]Cmd: ACTOR DELETE
+[2024.03.19-21.38.27:486][642]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.38.27:507][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.19-21.38.27:511][642]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.03.19-21.38.29:826][911]Cmd: DELETE
+[2024.03.19-21.38.29:826][911]Cmd: ACTOR DELETE
+[2024.03.19-21.38.29:829][911]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.38.29:843][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.38.29:846][911]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.03.19-21.38.34:501][447]Cmd: EDIT COPY
+[2024.03.19-21.38.34:679][468]Cmd: EDIT PASTE
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 0 (Found bundle for host: 0x9134e970090 [serially])
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 9 (  Trying 3.231.20.149:443...)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.231.20.149) port 443)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: 0000091A4C8DAF00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.38.37:761][819]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.39.30:378][624]Cmd: EDIT COPY
+[2024.03.19-21.39.30:541][642]Cmd: EDIT PASTE
+[2024.03.19-21.40.13:691][305]Cmd: DELETE
+[2024.03.19-21.40.13:691][305]Cmd: ACTOR DELETE
+[2024.03.19-21.40.13:695][305]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.13:711][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.19-21.40.13:720][305]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.03.19-21.40.14:245][359]Cmd: DELETE
+[2024.03.19-21.40.14:245][359]Cmd: ACTOR DELETE
+[2024.03.19-21.40.14:249][359]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.14:264][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.40.14:267][359]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.03.19-21.40.14:875][423]Cmd: DELETE
+[2024.03.19-21.40.14:875][423]Cmd: ACTOR DELETE
+[2024.03.19-21.40.14:879][423]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.14:894][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.19-21.40.14:899][423]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.40.15:424][477]Cmd: DELETE
+[2024.03.19-21.40.15:424][477]Cmd: ACTOR DELETE
+[2024.03.19-21.40.15:428][477]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.15:441][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.19-21.40.15:445][477]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.40.16:391][580]Cmd: DELETE
+[2024.03.19-21.40.16:391][580]Cmd: ACTOR DELETE
+[2024.03.19-21.40.16:395][580]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.16:413][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.40.16:416][580]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.40.17:689][721]Cmd: DELETE
+[2024.03.19-21.40.17:689][721]Cmd: ACTOR DELETE
+[2024.03.19-21.40.17:694][721]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.17:711][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.19-21.40.17:714][721]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.03.19-21.40.18:362][791]Cmd: DELETE
+[2024.03.19-21.40.18:362][791]Cmd: ACTOR DELETE
+[2024.03.19-21.40.18:367][791]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.18:388][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.40.18:391][791]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.03.19-21.40.19:110][870]Cmd: DELETE
+[2024.03.19-21.40.19:110][870]Cmd: ACTOR DELETE
+[2024.03.19-21.40.19:114][870]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.19:128][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.19-21.40.19:131][870]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.03.19-21.40.19:727][935]Cmd: DELETE
+[2024.03.19-21.40.19:727][935]Cmd: ACTOR DELETE
+[2024.03.19-21.40.19:731][935]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.19:746][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.19-21.40.19:748][935]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.03.19-21.40.20:388][  5]Cmd: DELETE
+[2024.03.19-21.40.20:388][  5]Cmd: ACTOR DELETE
+[2024.03.19-21.40.20:392][  5]LogEditorActor: Deleted Actor: Block_Platform_C
+[2024.03.19-21.40.20:406][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.03.19-21.40.20:408][  5]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.03.19-21.40.23:109][313]Cmd: EDIT COPY
+[2024.03.19-21.40.23:286][334]Cmd: EDIT PASTE
+[2024.03.19-21.40.47:359][ 41]Cmd: EDIT COPY
+[2024.03.19-21.40.47:542][ 57]Cmd: EDIT PASTE
+[2024.03.19-21.40.55:375][901]Cmd: EDIT COPY
+[2024.03.19-21.40.55:541][913]Cmd: EDIT PASTE
+[2024.03.19-21.41.05:529][ 18]Cmd: EDIT COPY
+[2024.03.19-21.41.05:690][ 37]Cmd: EDIT PASTE
+[2024.03.19-21.41.29:988][701]Cmd: EDIT COPY
+[2024.03.19-21.41.30:149][720]Cmd: EDIT PASTE
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 0 (Found bundle for host: 0x9134e970f60 [serially])
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 6 (Closing connection)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 9 (  Trying 3.231.20.149:443...)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.231.20.149) port 443)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 34 (Closing connection)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: 000009184069E600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-21.41.37:788][590]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B834F5E60-459A-C628-4D58-4EAC04276288%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-21.42.08:932][364]Cmd: EDIT COPY
+[2024.03.19-21.42.09:100][384]Cmd: EDIT PASTE
+[2024.03.19-21.43.17:418][635]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.19-21.43.17:418][635]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.19-21.43.17:430][635]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 12 ms (total: 247 ms)
+[2024.03.19-21.43.17:430][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-21.43.17:430][635]PIE: New page: PIE session: Zip-It (19 Mar 2024, 21:43:17)
+[2024.03.19-21.43.17:430][635]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.43.17:470][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039957s)
+[2024.03.19-21.43.17:471][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.039989s)
+[2024.03.19-21.43.17:487][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.19-21.43.17:498][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.43.17:498][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-21.43.17:499][635]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.19-21.43.17:500][635]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.19-21.43.17:500][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.19-21.43.17:500][635]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.19-21.43.17:500][635]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.19-21.43.17:509][635]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.19-21.43.17:509][635]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 918 ms)
+[2024.03.19-21.43.17:509][635]LogPlayLevel: PIE: World Init took: (0.010687s)
+[2024.03.19-21.43.17:509][635]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-21.43.17:509][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-21.43.17:509][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-21.43.17:509][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-21.43.17:509][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-21.43.17:509][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-21.43.17:512][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-21.43.17:531][635]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.19-21.43.17:531][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-21.43.17:531][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-21.43.17:531][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-21.43.17:532][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.19-21.43.17:532][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.19-21.43.17:534][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.19-21.43.17:534][635]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.19-21.43.17:534][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.19-21.43.17:534][635]LogAudio: Display: Audio Device (ID: 24) registered with world 'Zip-It'.
+[2024.03.19-21.43.17:534][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.19-21.43.17:536][635]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.19-21.43.17:559][635]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.19-21.43.17
+[2024.03.19-21.43.17:560][635]LogWorld: Bringing up level for play took: 0.023196
+[2024.03.19-21.43.17:562][635]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.03.19-21.43.17:567][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.19-21.43.17:567][635]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.19-21.43.17:567][635]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.19-21.43.17:567][635]PIE: Server logged in
+[2024.03.19-21.43.17:568][635]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.19-21.44.14:311][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.19-21.44.14:311][ 43]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.19-21.44.14:311][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.19-21.44.16:293][280]Cmd: quit
+[2024.03.19-21.44.16:294][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.44.16:294][280]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.19-21.44.16:334][280]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.44.16:337][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.44.16:337][280]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.19-21.44.16:340][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-21.44.16:344][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.44.16:374][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-21.44.16:376][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.19-21.44.16:376][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.19-21.44.16:377][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.19-21.44.16:388][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.19-21.44.16:537][281]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.03.19-21.44.31:509][513]LogSlate: Window 'Message Log' being destroyed
+[2024.03.19-21.44.31:525][513]LogSlate: Window 'Message Log' being destroyed
+[2024.03.19-21.44.33:832][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.19-21.44.33:841][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.44.33:895][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.44.33:911][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.19-21.44.33:930][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.19-21.44.33:934][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/GL/IHSERS8BX8S2IKEM5WLS0O
+[2024.03.19-21.44.33:934][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/IHSERS8BX8S2IKEM5WLS0OB3CA3A8C4736B7D3D001D49FEB43BD67.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/GL/IHSERS8BX8S2IKEM5WLS0O.uasset'
+[2024.03.19-21.44.33:936][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/0/PS/A5H1AGSCE4IABNHAEKW5TU
+[2024.03.19-21.44.33:936][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/A5H1AGSCE4IABNHAEKW5TUC9F7441046D4882FDCC9B6A17BB30E0F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/0/PS/A5H1AGSCE4IABNHAEKW5TU.uasset'
+[2024.03.19-21.44.33:938][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/FF/HIPILZ2DXPSW97IIXOTBT4
+[2024.03.19-21.44.33:938][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/HIPILZ2DXPSW97IIXOTBT42DF030DF4709C814B29253978F2C0F38.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/FF/HIPILZ2DXPSW97IIXOTBT4.uasset'
+[2024.03.19-21.44.33:939][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/OO/BR2XF1S54V75B6TAQTE0ZN
+[2024.03.19-21.44.33:939][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BR2XF1S54V75B6TAQTE0ZNE71BF56E43B5B5D1F9D54C927E7FBFCB.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/OO/BR2XF1S54V75B6TAQTE0ZN.uasset'
+[2024.03.19-21.44.33:941][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/M8/7XE9R2ZZDSUSGDSPG8W5Q1
+[2024.03.19-21.44.33:941][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/7XE9R2ZZDSUSGDSPG8W5Q1DDCB7E4943B0BBD972945086057422D0.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/M8/7XE9R2ZZDSUSGDSPG8W5Q1.uasset'
+[2024.03.19-21.44.33:942][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/P9/QS2GR4S8HOWEQFRP7HO7K3
+[2024.03.19-21.44.33:942][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/QS2GR4S8HOWEQFRP7HO7K39349D61A49379D9EB4C0408CF0BEF69F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/P9/QS2GR4S8HOWEQFRP7HO7K3.uasset'
+[2024.03.19-21.44.33:943][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/ON/HYWWP8G2BPZEJOHD6QP556
+[2024.03.19-21.44.33:943][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/HYWWP8G2BPZEJOHD6QP5564B20737B4085E576C2F086A6E90A3A34.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/5/ON/HYWWP8G2BPZEJOHD6QP556.uasset'
+[2024.03.19-21.44.33:945][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/DK/OXFX7ORAX9ODGWBXG4PQ0R
+[2024.03.19-21.44.33:945][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/OXFX7ORAX9ODGWBXG4PQ0R6663D1FA4188EE34AFBB1088EFF548B1.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/DK/OXFX7ORAX9ODGWBXG4PQ0R.uasset'
+[2024.03.19-21.44.33:946][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/AW/M7IW8A80PYB8C9AFHFKCO7
+[2024.03.19-21.44.33:946][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/M7IW8A80PYB8C9AFHFKCO7A2EECBA4428CAE55FC488AA130E6BC32.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/2/AW/M7IW8A80PYB8C9AFHFKCO7.uasset'
+[2024.03.19-21.44.33:947][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/TO/4DMCL9H5KCTUDKWR24BV4N
+[2024.03.19-21.44.33:947][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/4DMCL9H5KCTUDKWR24BV4N168E3006407966FBE904D59CE3885789.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/A/TO/4DMCL9H5KCTUDKWR24BV4N.uasset'
+[2024.03.19-21.44.33:949][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/H4/LQ93O5Q058CMRGX004G48O
+[2024.03.19-21.44.33:949][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/LQ93O5Q058CMRGX004G48OF087927E469EFE4D4D6356A4FA705370.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/4/H4/LQ93O5Q058CMRGX004G48O.uasset'
+[2024.03.19-21.44.33:950][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/2A/IGXI6RIJZTFUQ5XTAAZEBJ
+[2024.03.19-21.44.33:950][719]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/IGXI6RIJZTFUQ5XTAAZEBJ19D948E247B34D498C6CF880DD7AC3A3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/3/2A/IGXI6RIJZTFUQ5XTAAZEBJ.uasset'
+[2024.03.19-21.44.33:964][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 6.52 sec)
+[2024.03.19-21.44.33:968][719]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA56FDE301_1609884399
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1239010051
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1239012052
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1294871053
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1347617054
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1371873055
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1379872056
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1390021057
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1390023058
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1390024059
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1414480060
+[2024.03.19-21.44.33:968][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.StaticMeshActor_UAID_18C04D36BA5606E401_1453431061
+[2024.03.19-21.45.00:354][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.19-21.45.00:357][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.021
