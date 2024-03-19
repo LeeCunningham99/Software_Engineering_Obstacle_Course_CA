@@ -7645,3 +7645,91 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.19-21.08.11:241][630]LogSlate: Window 'Message Log' being destroyed
 [2024.03.19-21.08.15:078][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2024.03.19-21.08.41:512][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.19-21.09.55:444][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.19-21.09.57:098][  7]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.09.57:098][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.09.58:541][175]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.09.58:541][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.09.59:667][305]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.09.59:667][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.00:433][392]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.00:433][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.01:134][471]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.01:135][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.01:583][520]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.01:583][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.02:034][569]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.02:034][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.02:425][611]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.02:425][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.02:817][653]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-21.10.02:817][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-21.10.24:001][108]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-21.10.33:527][228]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-21.10.35:131][413]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.10.35:170][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.10.35:189][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.10.35:207][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.10.35:230][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-21.10.39:911][969]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.19-21.10.39:916][969]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.19-21.10.39:920][970]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.19-21.10.46:237][728]LogContentBrowser: Attempting asset rename: NewFolder -> Tree_Platform
+[2024.03.19-21.10.46:238][728]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.19-21.11.06:353][124]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.19-21.11.33:559][575]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MSc_Computer_Animation\Y1\3D_Animation_&_Game_Engine_Pipeline\CA4_Obstacle_Course\Models\Tree_Platform\Tree_Platform_V3.fbx)
+[2024.03.19-21.11.33:564][575]LogFbx: Loading FBX Scene from E:\MSc_Computer_Animation\Y1\3D_Animation_&_Game_Engine_Pipeline\CA4_Obstacle_Course\Models\Tree_Platform\Tree_Platform_V3.fbx
+[2024.03.19-21.11.33:568][575]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.19-21.11.36:371][575]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.19-21.11.36:441][575]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.03.19-21.11.36:442][575]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.19-21.11.36:446][575]LogTexture: Display: Building textures: /Game/3D-Models/Tree_Platform/Old_Wood.Old_Wood (BGRA8, 736x490 x1x1x1) (Required Memory Estimate: 10.609776 MB), EncodeSpeed: Fast
+[2024.03.19-21.11.36:456][575]LogFbx: Display: Triangulating static mesh Tree_Platform
+[2024.03.19-21.11.36:477][575]LogStaticMesh: Display: Building static mesh Tree_Platform_V3...
+[2024.03.19-21.11.36:491][575]LogStaticMesh: Built static mesh [0.01s] /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: ================================================
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Total job queries 856, among them cache hits 776 (90.65%)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 51 distinct outputs (63.75%)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: RAM used: 1.78 MiB of 3.20 GiB budget. Usage: 0.05%
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Shaders Compiled: 22
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Average time worker was idle: 236.85 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.09 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 1.06 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Job life time (pending + execution): average 0.47 s, max 1.07
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Shader code size: average 40.256 KiB, min 29.605 KiB, max 61.504 KiB
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.78 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Average processing rate: 7.91 jobs/sec
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Total thread time: 4.612 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Total thread preprocess time: 0.621 s
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Percentage time preprocessing: 13.46%
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.49% of total time (compiled    3 times, average 0.21 sec, max 0.23 sec, min 0.19 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.90% of total time (compiled    3 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.71% of total time (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.41% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.00% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.03.19-21.11.36:659][578]LogShaderCompilers: Display: ================================================
+[2024.03.19-21.11.44:185][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.19-21.11.44:235][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-21.11.44:302][470]LogSavePackage: Moving output files for package: /Game/3D-Models/Tree_Platform/Tree_Platform_V3
+[2024.03.19-21.11.44:302][470]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Tree_Platform_V30284082F4FB33B9693C419B044DAB106.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Tree_Platform/Tree_Platform_V3.uasset'
+[2024.03.19-21.11.44:320][470]LogSavePackage: Moving output files for package: /Game/3D-Models/Tree_Platform/Tree_Platform_Wood
+[2024.03.19-21.11.44:320][470]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Tree_Platform_Wood3E82D11A4DC45A50C90B1A8560F31320.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Tree_Platform/Tree_Platform_Wood.uasset'
+[2024.03.19-21.11.44:323][470]LogSavePackage: Moving output files for package: /Game/3D-Models/Tree_Platform/Old_Wood
+[2024.03.19-21.11.44:323][470]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Old_Wood6ECC066040DB3A44380BA1B71D2E4E46.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Tree_Platform/Old_Wood.uasset'
+[2024.03.19-21.11.44:328][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.91 sec)
+[2024.03.19-21.11.44:329][470]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3D-Models/Tree_Platform/Tree_Platform_V3.Tree_Platform_V3
+[2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.Material /Game/3D-Models/Tree_Platform/Tree_Platform_Wood.Tree_Platform_Wood
+[2024.03.19-21.11.44:329][470]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/3D-Models/Tree_Platform/Old_Wood.Old_Wood
