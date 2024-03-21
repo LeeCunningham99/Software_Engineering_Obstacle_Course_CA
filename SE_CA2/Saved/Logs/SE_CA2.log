@@ -2943,3 +2943,877 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.21-12.52.58:989][462]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.LandscapeStreamingProxy_AA7KLQAC4B3KT1ZWX4M0IJZTL_60_2_2_0
 [2024.03.21-12.52.58:989][462]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.LandscapeStreamingProxy_AA7KLQAC4B3KT1ZWX4M0IJZTL_60_3_2_0
 [2024.03.21-12.52.58:989][462]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.LandscapeStreamingProxy_AA7KLQAC4B3KT1ZWX4M0IJZTL_60_2_1_0
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 0 (Found bundle for host: 0x5886a9609f0 [serially])
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 6 (Closing connection)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 9 (  Trying 44.194.78.92:443...)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.194.78.92) port 443)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 16 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 17 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 18 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 19 (ALPN: server accepted http/1.1)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 20 (Server certificate:)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 21 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 22 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 23 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 25 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.21-12.55.47:895][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2024.03.21-12.55.47:896][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 27 (using HTTP/1.1)
+[2024.03.21-12.55.47:896][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 28 (necessary data rewind wasn't possible)
+[2024.03.21-12.55.47:896][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 29 (Closing connection)
+[2024.03.21-12.55.47:896][322]LogHttp: Warning: 00000588B44A3C00: libcurl info message cache 30 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-12.55.47:896][322]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-12.58.41:308][ 30]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.21-12.58.41:312][ 30]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.21-12.58.41:315][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.21-12.58.46:305][630]LogContentBrowser: Attempting asset rename: NewFolder -> Moving_Walls
+[2024.03.21-12.58.46:306][630]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.21-12.59.01:342][530]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MSc_Computer_Animation\Y1\3D_Animation_&_Game_Engine_Pipeline\CA4_Obstacle_Course\Models\Moving Walls\Moving_Walls.fbx)
+[2024.03.21-12.59.01:346][530]LogFbx: Loading FBX Scene from E:\MSc_Computer_Animation\Y1\3D_Animation_&_Game_Engine_Pipeline\CA4_Obstacle_Course\Models\Moving Walls\Moving_Walls.fbx
+[2024.03.21-12.59.01:355][530]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.21-12.59.03:037][530]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.21-12.59.03:105][530]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.03.21-12.59.03:105][530]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.21-12.59.03:108][530]LogTexture: Display: Building textures: /Game/3D-Models/Moving_Walls/Red_Wall_Paint.Red_Wall_Paint (TFO_AutoDXT, 800x500 x1x1x1) (Required Memory Estimate: 67.980784 MB), EncodeSpeed: Fast
+[2024.03.21-12.59.03:125][530]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.03.21-12.59.03:125][530]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.21-12.59.03:127][530]LogTexture: Display: Building textures: /Game/3D-Models/Moving_Walls/Ladder_Rubber.Ladder_Rubber (TFO_AutoDXT, 540x360 x1x1x1) (Required Memory Estimate: 30.714355 MB), EncodeSpeed: Fast
+[2024.03.21-12.59.03:137][530]LogFbx: Display: Triangulating static mesh Cube
+[2024.03.21-12.59.03:139][530]LogStaticMesh: Display: Building static mesh Moving_Walls...
+[2024.03.21-12.59.03:142][530]LogStaticMesh: Built static mesh [0.00s] /Game/3D-Models/Moving_Walls/Moving_Walls.Moving_Walls
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: ================================================
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Total job queries 223, among them cache hits 103 (46.19%)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 51 distinct outputs (42.50%)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: RAM used: 2.57 MiB of 3.20 GiB budget. Usage: 0.08%
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Shaders Compiled: 30
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Average time worker was idle: 416.76 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.67 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.95 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.01
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Shader code size: average 33.094 KiB, min 4.008 KiB, max 41.191 KiB
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.50 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Average processing rate: 11.98 jobs/sec
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Total thread time: 5.797 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Total thread preprocess time: 0.716 s
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Percentage time preprocessing: 12.36%
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.24 sec, max 0.29 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.23 sec, max 0.28 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 0.22 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.11 sec, max 0.12 sec, min 0.08 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.34% of total time (compiled    6 times, average 0.24 sec, max 0.29 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.13% of total time (compiled    6 times, average 0.23 sec, max 0.28 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.44% of total time (compiled    5 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 14.86% of total time (compiled    4 times, average 0.22 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.46% of total time (compiled    5 times, average 0.11 sec, max 0.12 sec, min 0.08 sec)
+[2024.03.21-12.59.03:303][533]LogShaderCompilers: Display: ================================================
+[2024.03.21-12.59.14:334][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:397][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:425][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:451][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:476][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:507][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:531][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:555][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.14:581][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.32:224][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-12.59.32:226][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.32:226][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-12.59.32:236][862]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.21-12.59.33:692][862]LogSlate: Took 0.004384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.21-12.59.39:982][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos
+[2024.03.21-12.59.39:983][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-12.59.39:983][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-12.59.42:768][875]LogViewport: Scene viewport resized to 1102x771, mode Windowed.
+[2024.03.21-13.00.09:342][971]LogViewport: Scene viewport resized to 1102x771, mode Windowed.
+[2024.03.21-13.00.16:003][746]BlueprintLog: New page: Compile BP_Wall_Vert
+[2024.03.21-13.00.16:050][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.21-13.00.16:692][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.00.16:732][806]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert
+[2024.03.21-13.00.16:732][806]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert6ECD63794158632B280D9EA46ABD8193.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert.uasset'
+[2024.03.21-13.00.16:737][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 551 ms)
+[2024.03.21-13.00.16:738][806]AssetCheck: New page: Asset Save: BP_Wall_Vert
+[2024.03.21-13.00.16:738][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-13.00.46:004][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.00.46:031][195]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert
+[2024.03.21-13.00.46:032][195]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_VertDB380A8846750515293CD992C0916B6A.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert.uasset'
+[2024.03.21-13.00.46:037][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 583 ms)
+[2024.03.21-13.00.46:038][195]AssetCheck: New page: Asset Save: BP_Wall_Vert
+[2024.03.21-13.00.46:038][195]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 0 (Found bundle for host: 0x5886a9601e0 [serially])
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 6 (Closing connection)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-13.00.47:731][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 9 (  Trying 3.214.36.127:443...)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.214.36.127) port 443)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 25 (Server certificate:)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 34 (Closing connection)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: 0000058934DBDC00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-13.00.47:732][390]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-13.00.53:563][ 20]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.00.53:563][ 20]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.00.53:577][ 20]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 13 ms (total: 97 ms)
+[2024.03.21-13.00.53:577][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.00.53:577][ 20]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:00:53)
+[2024.03.21-13.00.53:621][ 20]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.00.53:665][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043562s)
+[2024.03.21-13.00.53:665][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.043599s)
+[2024.03.21-13.00.53:680][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.21-13.00.53:681][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.00.53:681][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.00.53:682][ 20]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.00.53:683][ 20]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.00.53:683][ 20]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.00.53:683][ 20]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.00.53:683][ 20]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.00.53:694][ 20]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.00.53:694][ 20]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.21 sec)
+[2024.03.21-13.00.53:694][ 20]LogPlayLevel: PIE: World Init took: (0.013049s)
+[2024.03.21-13.00.53:694][ 20]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.00.53:694][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.00.53:695][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.00.53:695][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.00.53:695][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.00.53:695][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.00.53:695][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.00.53:697][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.00.53:717][ 20]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.00.53:717][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.00.53:717][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.00.53:717][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.00.53:718][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.21-13.00.53:718][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.21-13.00.53:719][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.21-13.00.53:719][ 20]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.21-13.00.53:719][ 20]LogAudio: Display: Audio Device (ID: 7) registered with world 'Zip-It'.
+[2024.03.21-13.00.53:719][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.21-13.00.53:719][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.21-13.00.53:721][ 20]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.00.53:750][ 20]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.00.53
+[2024.03.21-13.00.53:751][ 20]LogWorld: Bringing up level for play took: 0.028674
+[2024.03.21-13.00.53:752][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.21-13.00.53:757][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.00.53:757][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.00.53:758][ 20]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.00.53:758][ 20]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.00.53:758][ 20]PIE: Server logged in
+[2024.03.21-13.00.53:759][ 20]PIE: Play in editor total start time 0.196 seconds.
+[2024.03.21-13.00.59:352][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.00.59:352][395]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.00.59:353][395]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.00.59:357][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.00.59:357][395]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.00.59:363][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.00.59:368][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.00.59:386][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-13.00.59:387][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.21-13.00.59:387][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.21-13.00.59:389][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.21-13.00.59:392][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.00.59:402][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.21-13.00.59:528][396]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.21-13.01.01:641][620]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.01.01:645][620]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.01.18:260][534]BlueprintLog: New page: Compile BP_Wall_Vert
+[2024.03.21-13.01.18:301][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.21-13.01.19:220][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.01.19:266][634]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert
+[2024.03.21-13.01.19:266][634]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_VertA29324FF4A3A6958E0E67987E7A31BE0.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert.uasset'
+[2024.03.21-13.01.19:272][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 635 ms)
+[2024.03.21-13.01.19:272][634]AssetCheck: New page: Asset Save: BP_Wall_Vert
+[2024.03.21-13.01.19:272][634]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-13.01.23:642][126]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.01.23:642][126]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.01.23:657][126]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 14 ms (total: 112 ms)
+[2024.03.21-13.01.23:657][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.01.23:657][126]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:01:23)
+[2024.03.21-13.01.23:701][126]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.01.23:745][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044256s)
+[2024.03.21-13.01.23:746][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.044295s)
+[2024.03.21-13.01.23:760][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.21-13.01.23:762][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.01.23:762][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.01.23:762][126]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.01.23:763][126]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.01.23:763][126]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.01.23:763][126]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.01.23:763][126]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.01.23:775][126]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.01.23:775][126]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 3.23 sec)
+[2024.03.21-13.01.23:775][126]LogPlayLevel: PIE: World Init took: (0.013527s)
+[2024.03.21-13.01.23:775][126]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.01.23:775][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.01.23:775][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.01.23:775][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.01.23:775][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.01.23:775][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.01.23:777][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.01.23:798][126]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.01.23:798][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.01.23:798][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.01.23:798][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.01.23:798][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.21-13.01.23:798][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.21-13.01.23:800][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.21-13.01.23:800][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.21-13.01.23:800][126]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.21-13.01.23:800][126]LogAudio: Display: Audio Device (ID: 8) registered with world 'Zip-It'.
+[2024.03.21-13.01.23:800][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.21-13.01.23:802][126]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.01.23:831][126]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.01.23
+[2024.03.21-13.01.23:831][126]LogWorld: Bringing up level for play took: 0.028459
+[2024.03.21-13.01.23:833][126]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.21-13.01.23:838][126]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.01.23:838][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.01.23:838][126]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.01.23:838][126]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.01.23:838][126]PIE: Server logged in
+[2024.03.21-13.01.23:839][126]PIE: Play in editor total start time 0.197 seconds.
+[2024.03.21-13.01.27:442][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.01.27:442][357]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.01.27:443][357]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.01.27:447][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.01.27:447][357]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.01.27:453][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.01.27:458][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.01.27:479][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-13.01.27:479][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.21-13.01.27:479][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.21-13.01.27:480][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.21-13.01.27:484][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.01.27:493][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.21-13.01.27:633][358]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.21-13.01.30:413][633]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.01.30:421][633]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.02.33:446][  8]BlueprintLog: New page: Compile BP_Wall_Hori_Pos
+[2024.03.21-13.02.33:485][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.21-13.02.34:165][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.02.34:203][ 78]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Hori_Pos
+[2024.03.21-13.02.34:203][ 78]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Hori_Pos9C508BF047EEEDC88DC64C9F03433787.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Hori_Pos.uasset'
+[2024.03.21-13.02.34:213][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 683 ms)
+[2024.03.21-13.02.34:213][ 78]AssetCheck: New page: Asset Save: BP_Wall_Hori_Pos
+[2024.03.21-13.02.34:213][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos
+[2024.03.21-13.02.37:903][461]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.02.37:903][461]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.02.37:917][461]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 14 ms (total: 126 ms)
+[2024.03.21-13.02.37:917][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.02.37:917][461]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:02:37)
+[2024.03.21-13.02.37:941][461]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.02.37:986][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045019s)
+[2024.03.21-13.02.37:986][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.045055s)
+[2024.03.21-13.02.38:001][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.21-13.02.38:002][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.02.38:003][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.02.38:003][461]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.02.38:004][461]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.02.38:004][461]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.02.38:004][461]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.02.38:004][461]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.02.38:016][461]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.02.38:016][461]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.24 sec)
+[2024.03.21-13.02.38:016][461]LogPlayLevel: PIE: World Init took: (0.013866s)
+[2024.03.21-13.02.38:016][461]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.02.38:016][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.02.38:016][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.02.38:017][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.02.38:017][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.02.38:017][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.02.38:019][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.02.38:039][461]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.02.38:040][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.02.38:040][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.02.38:040][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.02.38:040][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.21-13.02.38:040][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.21-13.02.38:041][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.21-13.02.38:041][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.21-13.02.38:041][461]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.21-13.02.38:041][461]LogAudio: Display: Audio Device (ID: 9) registered with world 'Zip-It'.
+[2024.03.21-13.02.38:042][461]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.21-13.02.38:044][461]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.02.38:073][461]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.02.38
+[2024.03.21-13.02.38:073][461]LogWorld: Bringing up level for play took: 0.028756
+[2024.03.21-13.02.38:075][461]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.21-13.02.38:080][461]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.02.38:080][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.02.38:081][461]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.02.38:081][461]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.02.38:081][461]PIE: Server logged in
+[2024.03.21-13.02.38:081][461]PIE: Play in editor total start time 0.178 seconds.
+[2024.03.21-13.02.41:862][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.02.41:862][768]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.02.41:863][768]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.02.41:867][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.02.41:867][768]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.02.41:873][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.02.41:878][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.02.41:898][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-13.02.41:898][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.21-13.02.41:898][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.21-13.02.41:900][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.21-13.02.41:903][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.02.41:912][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.21-13.02.42:043][769]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.21-13.02.45:506][ 95]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.02.45:506][ 95]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.02.45:521][ 95]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 14 ms (total: 141 ms)
+[2024.03.21-13.02.45:521][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.02.45:521][ 95]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:02:45)
+[2024.03.21-13.02.45:551][ 95]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.02.45:596][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044976s)
+[2024.03.21-13.02.45:596][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.045010s)
+[2024.03.21-13.02.45:611][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.21-13.02.45:612][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.02.45:612][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.02.45:612][ 95]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.02.45:613][ 95]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.02.45:613][ 95]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.02.45:613][ 95]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.02.45:613][ 95]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.02.45:625][ 95]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.02.45:625][ 95]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.25 sec)
+[2024.03.21-13.02.45:625][ 95]LogPlayLevel: PIE: World Init took: (0.012779s)
+[2024.03.21-13.02.45:625][ 95]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.02.45:625][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.02.45:625][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.02.45:625][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.02.45:625][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.02.45:625][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.02.45:627][ 95]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.02.45:646][ 95]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.02.45:646][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.02.45:646][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.02.45:646][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.02.45:647][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.21-13.02.45:647][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.21-13.02.45:648][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.21-13.02.45:648][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.21-13.02.45:648][ 95]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.21-13.02.45:648][ 95]LogAudio: Display: Audio Device (ID: 10) registered with world 'Zip-It'.
+[2024.03.21-13.02.45:648][ 95]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.21-13.02.45:650][ 95]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.02.45:679][ 95]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.02.45
+[2024.03.21-13.02.45:679][ 95]LogWorld: Bringing up level for play took: 0.028126
+[2024.03.21-13.02.45:681][ 95]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.03.21-13.02.45:686][ 95]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.02.45:686][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.02.45:686][ 95]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.02.45:686][ 95]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.02.45:686][ 95]PIE: Server logged in
+[2024.03.21-13.02.45:687][ 95]PIE: Play in editor total start time 0.181 seconds.
+[2024.03.21-13.02.58:897][986]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-25.73 Y=499.34 Z=0.00 Location: X=748.53 Y=86.39 Z=636.33 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:1.815 Actor:BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1424675636 Component:Cube BoneName:None (0 other events since notify)
+[2024.03.21-13.03.10:462][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.03.10:462][844]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.03.10:463][844]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.03.10:467][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.03.10:467][844]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.03.10:472][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.03.10:478][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.03.10:496][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.03.10:498][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.21-13.03.10:498][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.21-13.03.10:500][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.21-13.03.10:512][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.21-13.03.10:619][845]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.03.21-13.03.12:194][  4]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.03.12:198][  4]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.03.23:280][293]LogEditorTransaction: Undo Modify Component Scale
+[2024.03.21-13.03.29:734][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.03.29:761][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert
+[2024.03.21-13.03.29:762][  0]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert3AE6E5A641A165D3A5CA7D89AEE1709E.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert.uasset'
+[2024.03.21-13.03.29:766][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 715 ms)
+[2024.03.21-13.03.29:767][  0]AssetCheck: New page: Asset Save: BP_Wall_Vert
+[2024.03.21-13.03.29:767][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-13.03.35:053][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow
+[2024.03.21-13.03.35:054][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.03.35:054][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.03.36:415][709]LogViewport: Scene viewport resized to 1102x771, mode Windowed.
+[2024.03.21-13.04.27:411][663]BlueprintLog: New page: Compile BP_Wall_Vert_Slow
+[2024.03.21-13.04.27:455][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.21-13.04.28:276][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.04.28:318][745]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert_Slow
+[2024.03.21-13.04.28:318][745]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert_Slow107066554ADEBB967250CB96E0E6977A.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert_Slow.uasset'
+[2024.03.21-13.04.28:323][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 762 ms)
+[2024.03.21-13.04.28:324][745]AssetCheck: New page: Asset Save: BP_Wall_Vert_Slow
+[2024.03.21-13.04.28:324][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow
+[2024.03.21-13.04.39:477][ 29]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.04.39:477][ 29]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.04.39:492][ 29]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 15 ms (total: 157 ms)
+[2024.03.21-13.04.39:493][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.04.39:493][ 29]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:04:39)
+[2024.03.21-13.04.39:541][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.04.39:586][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044749s)
+[2024.03.21-13.04.39:586][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.044785s)
+[2024.03.21-13.04.39:604][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.21-13.04.39:605][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.04.39:605][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.04.39:606][ 29]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.04.39:607][ 29]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.04.39:607][ 29]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.04.39:607][ 29]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.04.39:607][ 29]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.04.39:619][ 29]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.04.39:619][ 29]LogWorldPartition: Display: WorldPartition initialize took 12 ms (total: 3.26 sec)
+[2024.03.21-13.04.39:619][ 29]LogPlayLevel: PIE: World Init took: (0.014115s)
+[2024.03.21-13.04.39:619][ 29]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.04.39:619][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.04.39:619][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.04.39:620][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.04.39:620][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.04.39:620][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.04.39:621][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.04.39:642][ 29]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.04.39:643][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.04.39:643][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.04.39:643][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.04.39:644][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.21-13.04.39:644][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.21-13.04.39:645][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.21-13.04.39:645][ 29]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.21-13.04.39:645][ 29]LogAudio: Display: Audio Device (ID: 11) registered with world 'Zip-It'.
+[2024.03.21-13.04.39:645][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.21-13.04.39:645][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.21-13.04.39:647][ 29]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.04.39:678][ 29]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.04.39
+[2024.03.21-13.04.39:678][ 29]LogWorld: Bringing up level for play took: 0.030525
+[2024.03.21-13.04.39:680][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.21-13.04.39:686][ 29]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.04.39:686][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.04.39:686][ 29]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.04.39:686][ 29]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.04.39:686][ 29]PIE: Server logged in
+[2024.03.21-13.04.39:687][ 29]PIE: Play in editor total start time 0.21 seconds.
+[2024.03.21-13.04.41:972][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.04.41:972][210]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.04.41:973][210]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.04.41:977][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.04.41:977][210]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.04.41:983][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.04.41:989][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.04.42:008][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-13.04.42:009][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.21-13.04.42:009][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.21-13.04.42:010][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.21-13.04.42:014][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.04.42:023][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.21-13.04.42:150][211]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.21-13.04.44:408][452]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.04.44:412][452]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 0 (Found bundle for host: 0x5886a960660 [serially])
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 6 (Closing connection)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 9 (  Trying 3.214.36.127:443...)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.214.36.127) port 443)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 25 (Server certificate:)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 34 (Closing connection)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: 0000058920943200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-13.04.47:743][820]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD7291C8-40AD-05AD-95AE-C8ADA52F94E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c9453c304fa8885fdd4c37ba32c80c97%7C5bb00fd21ae3478791a24d00971f89f4%7C6216ec40-55fc-4e3f-8818-4fcf7f68d35f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-13.04.48:364][877]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.04.48:364][877]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.04.48:379][877]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 14 ms (total: 171 ms)
+[2024.03.21-13.04.48:379][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.04.48:379][877]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:04:48)
+[2024.03.21-13.04.48:411][877]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.04.48:456][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044697s)
+[2024.03.21-13.04.48:456][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.044735s)
+[2024.03.21-13.04.48:470][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.21-13.04.48:471][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.04.48:471][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.04.48:471][877]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.04.48:472][877]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.04.48:472][877]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.04.48:472][877]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.04.48:472][877]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.04.48:484][877]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.04.48:484][877]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.27 sec)
+[2024.03.21-13.04.48:484][877]LogPlayLevel: PIE: World Init took: (0.013066s)
+[2024.03.21-13.04.48:484][877]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.04.48:484][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.04.48:484][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.04.48:484][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.04.48:484][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.04.48:484][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.04.48:486][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.04.48:505][877]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.04.48:506][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.04.48:506][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.04.48:506][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.04.48:507][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.21-13.04.48:507][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.21-13.04.48:508][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.21-13.04.48:508][877]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.21-13.04.48:508][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.21-13.04.48:508][877]LogAudio: Display: Audio Device (ID: 12) registered with world 'Zip-It'.
+[2024.03.21-13.04.48:508][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.21-13.04.48:510][877]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.04.48:543][877]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.04.48
+[2024.03.21-13.04.48:543][877]LogWorld: Bringing up level for play took: 0.032448
+[2024.03.21-13.04.48:545][877]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.21-13.04.48:550][877]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.04.48:550][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.04.48:551][877]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.04.48:551][877]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.04.48:551][877]PIE: Server logged in
+[2024.03.21-13.04.48:551][877]PIE: Play in editor total start time 0.187 seconds.
+[2024.03.21-13.04.55:184][314]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-0.00 Y=385.27 Z=0.00 Location: X=481.88 Y=-1612.17 Z=638.28 Normal: X=0.99 Y=-0.14 Z=0.00 PenetrationDepth:0.397 Actor:BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_2117309643 Component:Moving_Wall_Model BoneName:None (0 other events since notify)
+[2024.03.21-13.04.56:812][424]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-0.00 Y=22.19 Z=0.00 Location: X=481.88 Y=-1284.54 Z=638.28 Normal: X=0.85 Y=-0.53 Z=0.00 PenetrationDepth:2.797 Actor:BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_2110851642 Component:Moving_Wall_Model BoneName:None (11 other events since notify)
+[2024.03.21-13.05.13:740][ 87]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=31.58 Y=-499.00 Z=0.00 Location: X=786.42 Y=-146.40 Z=636.22 Normal: X=-0.00 Y=0.14 Z=-0.99 PenetrationDepth:0.070 Actor:BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_2036253639 Component:Moving_Wall_Model BoneName:None (0 other events since notify)
+[2024.03.21-13.05.17:748][450]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-32.45 Y=-498.95 Z=0.00 Location: X=763.76 Y=-1389.07 Z=636.35 Normal: X=0.00 Y=0.03 Z=-1.00 PenetrationDepth:1.975 Actor:BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1413607632 Component:Cube BoneName:None (16 other events since notify)
+[2024.03.21-13.05.20:572][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.05.20:572][762]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.05.20:572][762]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.05.20:577][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.05.20:577][762]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.05.20:583][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.05.20:589][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.05.20:607][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.05.20:610][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.21-13.05.20:610][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.21-13.05.20:612][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.21-13.05.20:625][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.21-13.05.20:756][763]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.21-13.05.22:363][929]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.05.22:366][929]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.05.39:204][892]BlueprintLog: New page: Compile BP_Wall_Vert
+[2024.03.21-13.05.39:246][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.21-13.05.39:757][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.05.39:795][941]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert
+[2024.03.21-13.05.39:795][941]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert5D8A6DC14E9FC1F2EFA1BA9CAD511613.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert.uasset'
+[2024.03.21-13.05.39:800][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 805 ms)
+[2024.03.21-13.05.39:801][941]AssetCheck: New page: Asset Save: BP_Wall_Vert
+[2024.03.21-13.05.39:801][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert
+[2024.03.21-13.05.57:962][ 20]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.21-13.05.57:963][ 20]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.03.21-13.05.57:978][ 20]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 15 ms (total: 187 ms)
+[2024.03.21-13.05.57:978][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.21-13.05.57:978][ 20]PIE: New page: PIE session: Zip-It (21 Mar 2024, 13:05:57)
+[2024.03.21-13.05.58:001][ 20]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.05.58:048][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047111s)
+[2024.03.21-13.05.58:048][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.047155s)
+[2024.03.21-13.05.58:064][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.21-13.05.58:065][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-13.05.58:065][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-13.05.58:066][ 20]LogAIModule: Creating AISystem for world Zip-It
+[2024.03.21-13.05.58:066][ 20]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.21-13.05.58:067][ 20]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.21-13.05.58:067][ 20]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.21-13.05.58:067][ 20]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.21-13.05.58:078][ 20]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.03.21-13.05.58:078][ 20]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.28 sec)
+[2024.03.21-13.05.58:078][ 20]LogPlayLevel: PIE: World Init took: (0.013311s)
+[2024.03.21-13.05.58:078][ 20]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.21-13.05.58:078][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.21-13.05.58:078][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.21-13.05.58:079][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.21-13.05.58:079][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.21-13.05.58:079][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.21-13.05.58:081][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.21-13.05.58:100][ 20]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.03.21-13.05.58:100][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.21-13.05.58:100][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.21-13.05.58:100][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.21-13.05.58:101][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.21-13.05.58:101][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.21-13.05.58:102][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.21-13.05.58:102][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.21-13.05.58:102][ 20]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.21-13.05.58:102][ 20]LogAudio: Display: Audio Device (ID: 13) registered with world 'Zip-It'.
+[2024.03.21-13.05.58:102][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.21-13.05.58:104][ 20]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.21-13.05.58:134][ 20]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.03.21-13.05.58
+[2024.03.21-13.05.58:135][ 20]LogWorld: Bringing up level for play took: 0.029922
+[2024.03.21-13.05.58:137][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.03.21-13.05.58:142][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:2F77
+[2024.03.21-13.05.58:142][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.03.21-13.05.58:142][ 20]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.03.21-13.05.58:142][ 20]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.21-13.05.58:143][ 20]PIE: Server logged in
+[2024.03.21-13.05.58:143][ 20]PIE: Play in editor total start time 0.181 seconds.
+[2024.03.21-13.06.00:282][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.06.00:282][207]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.03.21-13.06.00:283][207]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-13.06.00:287][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.06.00:287][207]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.03.21-13.06.00:293][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.21-13.06.00:299][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-13.06.00:318][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.21-13.06.00:318][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.21-13.06.00:318][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.21-13.06.00:320][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.21-13.06.00:324][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.21-13.06.00:334][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.21-13.06.00:473][208]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.21-13.06.03:606][544]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.06.03:609][544]LogSlate: Window 'Message Log' being destroyed
+[2024.03.21-13.06.23:639][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.06.23:668][804]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Hori_Pos
+[2024.03.21-13.06.23:668][804]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Hori_PosE45ACC8F4C3A383B450433B7673B7007.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Hori_Pos.uasset'
+[2024.03.21-13.06.23:673][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 839 ms)
+[2024.03.21-13.06.23:674][804]AssetCheck: New page: Asset Save: BP_Wall_Hori_Pos
+[2024.03.21-13.06.23:674][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos
+[2024.03.21-13.06.36:591][312]LogViewport: Scene viewport resized to 1404x900, mode Windowed.
+[2024.03.21-13.06.36:643][313]LogViewport: Scene viewport resized to 1387x900, mode Windowed.
+[2024.03.21-13.06.36:682][314]LogViewport: Scene viewport resized to 1363x900, mode Windowed.
+[2024.03.21-13.06.36:724][315]LogViewport: Scene viewport resized to 1338x900, mode Windowed.
+[2024.03.21-13.06.36:765][316]LogViewport: Scene viewport resized to 1316x900, mode Windowed.
+[2024.03.21-13.06.36:804][317]LogViewport: Scene viewport resized to 1302x900, mode Windowed.
+[2024.03.21-13.06.36:842][318]LogViewport: Scene viewport resized to 1298x900, mode Windowed.
+[2024.03.21-13.06.36:904][322]LogViewport: Scene viewport resized to 1296x900, mode Windowed.
+[2024.03.21-13.06.36:944][323]LogViewport: Scene viewport resized to 1287x900, mode Windowed.
+[2024.03.21-13.06.36:981][324]LogViewport: Scene viewport resized to 1280x900, mode Windowed.
+[2024.03.21-13.06.37:017][325]LogViewport: Scene viewport resized to 1281x900, mode Windowed.
+[2024.03.21-13.06.37:055][326]LogViewport: Scene viewport resized to 1273x900, mode Windowed.
+[2024.03.21-13.06.37:095][327]LogViewport: Scene viewport resized to 1254x900, mode Windowed.
+[2024.03.21-13.06.37:134][328]LogViewport: Scene viewport resized to 1230x900, mode Windowed.
+[2024.03.21-13.06.37:171][329]LogViewport: Scene viewport resized to 1227x900, mode Windowed.
+[2024.03.21-13.06.37:285][339]LogViewport: Scene viewport resized to 1230x900, mode Windowed.
+[2024.03.21-13.06.37:324][340]LogViewport: Scene viewport resized to 1246x900, mode Windowed.
+[2024.03.21-13.06.37:364][341]LogViewport: Scene viewport resized to 1264x900, mode Windowed.
+[2024.03.21-13.06.37:405][342]LogViewport: Scene viewport resized to 1282x900, mode Windowed.
+[2024.03.21-13.06.37:446][343]LogViewport: Scene viewport resized to 1298x900, mode Windowed.
+[2024.03.21-13.06.37:485][344]LogViewport: Scene viewport resized to 1306x900, mode Windowed.
+[2024.03.21-13.06.37:525][345]LogViewport: Scene viewport resized to 1315x900, mode Windowed.
+[2024.03.21-13.06.37:562][346]LogViewport: Scene viewport resized to 1321x900, mode Windowed.
+[2024.03.21-13.06.37:602][347]LogViewport: Scene viewport resized to 1338x900, mode Windowed.
+[2024.03.21-13.06.37:643][348]LogViewport: Scene viewport resized to 1345x900, mode Windowed.
+[2024.03.21-13.06.37:679][349]LogViewport: Scene viewport resized to 1350x900, mode Windowed.
+[2024.03.21-13.06.37:718][350]LogViewport: Scene viewport resized to 1354x900, mode Windowed.
+[2024.03.21-13.06.37:754][351]LogViewport: Scene viewport resized to 1356x900, mode Windowed.
+[2024.03.21-13.06.44:782][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.06.44:804][152]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert_Slow
+[2024.03.21-13.06.44:804][152]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert_Slow58451371422B99F42A106EBE0B311528.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert_Slow.uasset'
+[2024.03.21-13.06.44:809][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 866 ms)
+[2024.03.21-13.06.44:810][152]AssetCheck: New page: Asset Save: BP_Wall_Vert_Slow
+[2024.03.21-13.06.44:810][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow
+[2024.03.21-13.06.56:959][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.06.56:989][586]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Wall_Vert_Slow
+[2024.03.21-13.06.56:990][586]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_Wall_Vert_Slow90C90C764DE2CCBC2FE3168364FABAA9.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/Blueprints/BP_Wall_Vert_Slow.uasset'
+[2024.03.21-13.06.56:994][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 902 ms)
+[2024.03.21-13.06.56:995][586]AssetCheck: New page: Asset Save: BP_Wall_Vert_Slow
+[2024.03.21-13.06.56:995][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow
+[2024.03.21-13.07.49:867][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.21-13.07.49:873][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-13.07.49:904][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/0/PY/SKBLUVVU5F4RQIOOID910S
+[2024.03.21-13.07.49:904][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/SKBLUVVU5F4RQIOOID910SED94C5A84D8AA84705E7B08198D99575.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/0/PY/SKBLUVVU5F4RQIOOID910S.uasset'
+[2024.03.21-13.07.49:906][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/12/WZMXLNTOLFU22Y2CFNS3JO
+[2024.03.21-13.07.49:906][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/WZMXLNTOLFU22Y2CFNS3JOFA8AA48C4D1A235E077F10823DC3116A.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/12/WZMXLNTOLFU22Y2CFNS3JO.uasset'
+[2024.03.21-13.07.49:908][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/3T/POCYR3C24OZGPJ0KPS641P
+[2024.03.21-13.07.49:908][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/POCYR3C24OZGPJ0KPS641P7CDAD0354E340EAB4DF4FF976E31ABA6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/1/3T/POCYR3C24OZGPJ0KPS641P.uasset'
+[2024.03.21-13.07.49:910][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/M3/P77WF0VVSINW8O03G51KGY
+[2024.03.21-13.07.49:910][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/P77WF0VVSINW8O03G51KGY0E0063B74C8805FCA6E3E796E106C5BC.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/7/M3/P77WF0VVSINW8O03G51KGY.uasset'
+[2024.03.21-13.07.49:912][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/6V/YJ6KPBF8IOBDM2O3O0AODN
+[2024.03.21-13.07.49:912][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/YJ6KPBF8IOBDM2O3O0AODN3BC3714143A8783F8A112B86FDAD214F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/8/6V/YJ6KPBF8IOBDM2O3O0AODN.uasset'
+[2024.03.21-13.07.49:914][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/7R/TAGFOOIEROZWLE302VWC4Q
+[2024.03.21-13.07.49:914][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/TAGFOOIEROZWLE302VWC4Q846AB4384EB47BBAFFD82AA73FC21AE6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/7R/TAGFOOIEROZWLE302VWC4Q.uasset'
+[2024.03.21-13.07.49:916][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/SX/LTLFXB3D2GOJU1ZF8L0FHJ
+[2024.03.21-13.07.49:916][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/LTLFXB3D2GOJU1ZF8L0FHJ1AA2D72D40F0BD17AD98C888AA25BED6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/SX/LTLFXB3D2GOJU1ZF8L0FHJ.uasset'
+[2024.03.21-13.07.49:918][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/WK/6VS30AUHIDOMKEAGNXAPKA
+[2024.03.21-13.07.49:918][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/6VS30AUHIDOMKEAGNXAPKA2BF2ED444774AB93ACD012965DD0DF47.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/B/WK/6VS30AUHIDOMKEAGNXAPKA.uasset'
+[2024.03.21-13.07.49:919][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/70/KY6R2YTBLKJEM34167G1U3
+[2024.03.21-13.07.49:920][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/KY6R2YTBLKJEM34167G1U3E3A0BAFC46DB8666DC0E5D91EE8DF746.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/70/KY6R2YTBLKJEM34167G1U3.uasset'
+[2024.03.21-13.07.49:921][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/MF/69M1B66MRF446EUSXVQ12R
+[2024.03.21-13.07.49:921][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/69M1B66MRF446EUSXVQ12RF5C6795A48CAE8E98B8336985CA98687.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/C/MF/69M1B66MRF446EUSXVQ12R.uasset'
+[2024.03.21-13.07.49:923][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/RV/OK8PFOBBD199FDLZZ1XDQ2
+[2024.03.21-13.07.49:923][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/OK8PFOBBD199FDLZZ1XDQ2530423E6466A145B51218493480AC5D5.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/D/RV/OK8PFOBBD199FDLZZ1XDQ2.uasset'
+[2024.03.21-13.07.49:925][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/KD/U1EED0FYFAZZ8PL2I3FY0X
+[2024.03.21-13.07.49:925][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/U1EED0FYFAZZ8PL2I3FY0XF163E7234377CA8685FDC0881A495493.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/KD/U1EED0FYFAZZ8PL2I3FY0X.uasset'
+[2024.03.21-13.07.49:927][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/LE/CAUFSXB5LFRYTKE9QD94YK
+[2024.03.21-13.07.49:927][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/CAUFSXB5LFRYTKE9QD94YK5228A94142F60B687984F9B85E547741.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/LE/CAUFSXB5LFRYTKE9QD94YK.uasset'
+[2024.03.21-13.07.49:928][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/SY/GZHRQ4A3GODUGQW02DCWOF
+[2024.03.21-13.07.49:929][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/GZHRQ4A3GODUGQW02DCWOF83BFF21E48661D4E515E50BB48CD82A7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/__ExternalActors__/ThirdPerson/Maps/Zip-It/E/SY/GZHRQ4A3GODUGQW02DCWOF.uasset'
+[2024.03.21-13.07.49:958][468]LogSavePackage: Moving output files for package: /Game/3D-Models/Moving_Walls/Moving_Walls
+[2024.03.21-13.07.49:958][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Moving_WallsB1FD5B134B86D16E0BC132BAFE007174.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Moving_Walls/Moving_Walls.uasset'
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: ================================================
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Total job queries 235, among them cache hits 115 (48.94%)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 51 distinct outputs (42.50%)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: RAM used: 2.57 MiB of 3.20 GiB budget. Usage: 0.08%
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Shaders Compiled: 30
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Average time worker was idle: 416.76 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.67 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.95 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.01
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Shader code size: average 33.094 KiB, min 4.008 KiB, max 41.191 KiB
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.50 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Average processing rate: 11.98 jobs/sec
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Total thread time: 5.797 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Total thread preprocess time: 0.716 s
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Percentage time preprocessing: 12.36%
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.24 sec, max 0.29 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.23 sec, max 0.28 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 0.22 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.11 sec, max 0.12 sec, min 0.08 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.34% of total time (compiled    6 times, average 0.24 sec, max 0.29 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.13% of total time (compiled    6 times, average 0.23 sec, max 0.28 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.44% of total time (compiled    5 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 14.86% of total time (compiled    4 times, average 0.22 sec, max 0.23 sec, min 0.20 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.46% of total time (compiled    5 times, average 0.11 sec, max 0.12 sec, min 0.08 sec)
+[2024.03.21-13.07.49:970][468]LogShaderCompilers: Display: ================================================
+[2024.03.21-13.07.49:978][468]LogSavePackage: Moving output files for package: /Game/3D-Models/Moving_Walls/Building_Door_Paint
+[2024.03.21-13.07.49:978][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Building_Door_Paint0C27E1E245C4D4399787729C50FD373C.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Moving_Walls/Building_Door_Paint.uasset'
+[2024.03.21-13.07.49:981][468]LogSavePackage: Moving output files for package: /Game/3D-Models/Moving_Walls/Red_Wall_Paint
+[2024.03.21-13.07.49:981][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Red_Wall_PaintF4ABB3F14713B7E7CC80C191D438FFF3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Moving_Walls/Red_Wall_Paint.uasset'
+[2024.03.21-13.07.50:003][468]LogSavePackage: Moving output files for package: /Game/3D-Models/Moving_Walls/Building_Door_Metal
+[2024.03.21-13.07.50:003][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Building_Door_Metal87F2F15449C677FB3C0EA89326E81BC7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Moving_Walls/Building_Door_Metal.uasset'
+[2024.03.21-13.07.50:006][468]LogSavePackage: Moving output files for package: /Game/3D-Models/Moving_Walls/Ladder_Rubber
+[2024.03.21-13.07.50:006][468]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Ladder_Rubber38E183844E7CC2C6395F999CAF982ED2.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/3D-Models/Moving_Walls/Ladder_Rubber.uasset'
+[2024.03.21-13.07.50:027][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 1.05 sec)
+[2024.03.21-13.07.50:032][468]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1413607632
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_2117309643
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_2046073640
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_Slow_C_UAID_18C04D36BA56EADA01_2051337641
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_2121608644
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_2036253639
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_1267309629
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Hori_Pos.BP_Wall_Hori_Pos_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Hori_Pos_C_UAID_18C04D36BA56EADA01_2110851642
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1421662635
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1424675636
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert.BP_Wall_Vert_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_C_UAID_18C04D36BA56EADA01_1284305630
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_Slow_C_UAID_18C04D36BA56EADA01_1286663631
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_Slow_C_UAID_18C04D36BA56EADA01_1418228634
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Game/Blueprints/BP_Wall_Vert_Slow.BP_Wall_Vert_Slow_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:PersistentLevel.BP_Wall_Vert_Slow_C_UAID_18C04D36BA56EADA01_1413609633
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3D-Models/Moving_Walls/Moving_Walls.Moving_Walls
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Script/Engine.Material /Game/3D-Models/Moving_Walls/Building_Door_Paint.Building_Door_Paint
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/3D-Models/Moving_Walls/Red_Wall_Paint.Red_Wall_Paint
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Script/Engine.Material /Game/3D-Models/Moving_Walls/Building_Door_Metal.Building_Door_Metal
+[2024.03.21-13.07.50:032][468]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/3D-Models/Moving_Walls/Ladder_Rubber.Ladder_Rubber
