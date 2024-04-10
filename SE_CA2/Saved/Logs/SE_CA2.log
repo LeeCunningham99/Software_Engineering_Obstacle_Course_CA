@@ -1936,3 +1936,476 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.10-12.51.31:596][175]AssetCheck: New page: Asset Save: IMC_Default
 [2024.04.10-12.51.31:596][175]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
 [2024.04.10-12.56.39:324][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.10-13.04.49:090][776]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.10-13.04.49:205][776]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_2:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.04.49:205][776]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_4:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.04.49:206][776]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_1:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.04.49:231][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.10-13.04.50:247][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.04.50:455][821]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.10-13.04.50:455][821]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_ThirdPersonCharacter209C5C904CC5BC6E1D9B27988B5F52C6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.10-13.04.50:461][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 1.33 sec)
+[2024.04.10-13.04.50:464][821]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.10-13.04.50:464][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.10-13.06.08:825][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.10-13.06.22:328][823]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.06.22:328][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.06.22:328][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.06.22:339][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.06.22:339][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.06.22:347][823]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.10-13.06.22:556][823]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.10-13.06.22:561][823]LogSlate: Took 0.004412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.10-13.07.11:030][700]LogSlate: Took 0.012189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.10-13.07.46:722][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.10-13.07.46:726][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.029
+[2024.04.10-13.07.46:726][216]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Controls_Settings_Menu] ([2] browsable assets)...
+[2024.04.10-13.07.46:741][216]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu]
+[2024.04.10-13.07.46:741][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Controls_Settings_Menu]
+[2024.04.10-13.07.46:752][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto2
+[2024.04.10-13.07.46:752][216]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu_Auto2DE1BCBA448CCEB16138720B6477158A5.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto2.uasset'
+[2024.04.10-13.07.46:753][216]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.04.10-13.09.36:704][587]LogSlate: Took 0.006215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.10-13.10.19:170][157]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.10.19:210][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.10-13.10.19:887][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.10.19:932][228]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.10.19:932][228]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu9269FEF4476B2C562456C38100C2A8B3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.10.19:938][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.38 sec)
+[2024.04.10-13.10.19:939][228]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.10.19:939][228]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.11.37:470][120]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.11.37:507][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.10-13.11.38:523][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.11.38:568][232]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.11.38:568][232]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu440382F346E2452F8A2845A51792A9F7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.11.38:572][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.43 sec)
+[2024.04.10-13.11.38:574][232]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.11.38:574][232]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.18.11:007][137]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.18.11:049][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.04.10-13.18.12:159][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.18.12:207][258]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.18.12:207][258]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu2BEA395646EB80341C97939EC68309D9.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.18.12:212][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.48 sec)
+[2024.04.10-13.18.12:214][258]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.18.12:214][258]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.19.54:564][947]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.19.54:605][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.10-13.19.55:368][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.19.55:421][ 25]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.19.55:422][ 25]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu86984E7C40DCA203925F14A13B22578D.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.19.55:426][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.54 sec)
+[2024.04.10-13.19.55:428][ 25]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.19.55:428][ 25]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.23.54:749][449]LogDerivedDataCache: C:/Users/leecu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11547 files in 12962 folders with total size 835 MiB.
+[2024.04.10-13.24.01:503][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.24.01:554][246]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.24.01:555][246]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu882BE8F4490CFE1B6FD2BDA81BAAACF5.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.24.01:560][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.60 sec)
+[2024.04.10-13.24.01:561][246]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.24.01:561][246]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.24.02:572][359]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.24.02:614][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.10-13.24.03:481][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.24.03:529][425]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.24.03:529][425]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu8BEAB9D44AB7B1CA1F04C08DEEB8A76B.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.24.03:535][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.65 sec)
+[2024.04.10-13.24.03:536][425]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.24.03:536][425]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.25.54:579][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.10-13.25.54:586][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.027
+[2024.04.10-13.25.54:586][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Controls_Settings_Menu] ([2] browsable assets)...
+[2024.04.10-13.25.54:591][717]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu]
+[2024.04.10-13.25.54:591][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Controls_Settings_Menu]
+[2024.04.10-13.25.54:606][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto3
+[2024.04.10-13.25.54:606][717]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu_Auto342B8695D4D4EF005A7FAC5B2848A86A8.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto3.uasset'
+[2024.04.10-13.25.54:611][717]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.04.10-13.27.22:590][157]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.27.22:632][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.10-13.27.23:517][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.27.23:566][251]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.27.23:566][251]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_MenuDE6ADB994BF1E8EE7AEF17BF79EB25C4.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.27.23:571][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.70 sec)
+[2024.04.10-13.27.23:571][251]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.27.23:571][251]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.33.11:532][114]BlueprintLog: New page: Compile W_Controls_Settings_Menu
+[2024.04.10-13.33.11:590][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.04.10-13.33.12:448][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.33.12:499][203]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.33.12:499][203]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_MenuA168F3DB4CBDB3944EA564BF5229404E.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.33.12:504][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.76 sec)
+[2024.04.10-13.33.12:506][203]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.33.12:506][203]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.35.09:704][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-13.35.09:715][711]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.10-13.35.09:715][711]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.04.10-13.35.09:734][711]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 18 ms (total: 137 ms)
+[2024.04.10-13.35.09:734][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-13.35.09:734][711]PIE: New page: PIE session: Zip-It (10 Apr 2024, 15:35:09)
+[2024.04.10-13.35.09:757][711]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.35.09:860][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102336s)
+[2024.04.10-13.35.09:860][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.102376s)
+[2024.04.10-13.35.09:878][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.10-13.35.09:884][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.35.09:884][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.35.09:884][711]LogAIModule: Creating AISystem for world Zip-It
+[2024.04.10-13.35.09:886][711]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.10-13.35.09:886][711]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.10-13.35.09:886][711]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.10-13.35.09:886][711]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.10-13.35.09:910][711]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.04.10-13.35.09:910][711]LogWorldPartition: Display: WorldPartition initialize took 24 ms (total: 5.94 sec)
+[2024.04.10-13.35.09:910][711]LogPlayLevel: PIE: World Init took: (0.026440s)
+[2024.04.10-13.35.09:910][711]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-13.35.09:910][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-13.35.09:910][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-13.35.09:911][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-13.35.09:911][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-13.35.09:911][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-13.35.09:913][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-13.35.09:933][711]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.10-13.35.09:934][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-13.35.09:934][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-13.35.09:934][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-13.35.09:935][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.10-13.35.09:935][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.10-13.35.09:936][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.10-13.35.09:936][711]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.10-13.35.09:936][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.10-13.35.09:936][711]LogAudio: Display: Audio Device (ID: 8) registered with world 'Zip-It'.
+[2024.04.10-13.35.09:936][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.10-13.35.09:938][711]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-13.35.10:022][711]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.04.10-14.35.10
+[2024.04.10-13.35.10:023][711]LogWorld: Bringing up level for play took: 0.083926
+[2024.04.10-13.35.10:025][711]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.10-13.35.10:034][711]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:352D
+[2024.04.10-13.35.10:034][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.04.10-13.35.10:035][711]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.04.10-13.35.10:035][711]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.10-13.35.10:035][711]PIE: Server logged in
+[2024.04.10-13.35.10:035][711]PIE: Play in editor total start time 0.32 seconds.
+[2024.04.10-13.35.12:203][952]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-13.35.12:203][952]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.10-13.35.12:203][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.10-13.35.19:461][823]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-13.35.19:461][823]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.10-13.35.20:728][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.35.20:728][970]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.35.20:729][970]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-13.35.20:760][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.35.20:760][970]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.04.10-13.35.20:764][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-13.35.20:771][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.35.20:791][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-13.35.20:792][970]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.10-13.35.20:792][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.10-13.35.20:794][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.10-13.35.20:798][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.35.20:816][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.10-13.35.20:936][971]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.10-13.35.22:707][106]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.35.22:723][106]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.35.24:483][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.35.24:537][293]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.35.24:537][293]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_MenuFE9E52F14DA7D1EAF116128F98904518.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.35.24:543][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.82 sec)
+[2024.04.10-13.35.24:544][293]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.35.24:544][293]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.35.51:908][116]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.35.51:908][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.35.51:908][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.35.51:913][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.35.51:913][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.36.29:906][380]BlueprintLog: New page: Compile W_Controls_Settings_Pause
+[2024.04.10-13.36.29:949][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.10-13.36.30:714][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.36.30:761][442]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.36.30:761][442]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_PauseF9B6E35C4AE538652446819F3D52FA3E.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.36.30:765][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.87 sec)
+[2024.04.10-13.36.30:768][442]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.36.30:768][442]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.38.09:121][ 22]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.10-13.39.45:077][916]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'MappingContext' instances, change its type, and recompile?
+[2024.04.10-13.39.49:726][272]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.39.49:733][272]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.39.56:852][910]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'InputAction_Jump' instances, change its type, and recompile?
+[2024.04.10-13.40.04:008][591]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.40.04:015][591]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.40.05:316][708]BlueprintLog: New page: Compile W_Controls_Settings_Pause
+[2024.04.10-13.40.05:326][708]LogBlueprint: Warning: [AssetLog] E:\MSc_Computer_Animation\Y1\Software_Engineering\Software_Engineering_Obstacle_Course_CA\SE_CA2\Content\UI\W_Controls_Settings_Pause.uasset: [Compiler] Could not find a variable named "JumpKey" in 'W_Controls_Settings_Pause_C'.
+Make sure 'W_Controls_Settings_Pause_C' has been compiled for  Get JumpKey
+[2024.04.10-13.40.05:326][708]LogBlueprint: Warning: [AssetLog] E:\MSc_Computer_Animation\Y1\Software_Engineering\Software_Engineering_Obstacle_Course_CA\SE_CA2\Content\UI\W_Controls_Settings_Pause.uasset: [Compiler] Could not find a variable named "JumpKey" in 'W_Controls_Settings_Pause_C'.
+Make sure 'W_Controls_Settings_Pause_C' has been compiled for  Set JumpKey
+[2024.04.10-13.40.05:327][708]LogBlueprint: Error: [AssetLog] E:\MSc_Computer_Animation\Y1\Software_Engineering\Software_Engineering_Obstacle_Course_CA\SE_CA2\Content\UI\W_Controls_Settings_Pause.uasset: [Compiler] The property associated with  Jump Key  could not be found in '/Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C'
+[2024.04.10-13.40.05:327][708]LogBlueprint: Error: [AssetLog] E:\MSc_Computer_Animation\Y1\Software_Engineering\Software_Engineering_Obstacle_Course_CA\SE_CA2\Content\UI\W_Controls_Settings_Pause.uasset: [Compiler] The property associated with  Jump Key  could not be found in '/Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C'
+[2024.04.10-13.40.05:369][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.10-13.40.37:666][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.10-13.40.37:675][995]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.028
+[2024.04.10-13.40.37:675][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Controls_Settings_Menu] ([2] browsable assets)...
+[2024.04.10-13.40.37:679][995]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu]
+[2024.04.10-13.40.37:679][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Controls_Settings_Menu]
+[2024.04.10-13.40.37:697][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto4
+[2024.04.10-13.40.37:697][995]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu_Auto4E199BA0F4E5377AA3386639C8702407F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/UI/W_Controls_Settings_Menu_Auto4.uasset'
+[2024.04.10-13.40.37:698][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Controls_Settings_Pause] ([2] browsable assets)...
+[2024.04.10-13.40.37:701][995]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause]
+[2024.04.10-13.40.37:701][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Controls_Settings_Pause]
+[2024.04.10-13.40.37:719][995]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Controls_Settings_Pause_Auto4
+[2024.04.10-13.40.37:719][995]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Pause_Auto4F32E789F44F176B800383BAA93DF0AC6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/UI/W_Controls_Settings_Pause_Auto4.uasset'
+[2024.04.10-13.40.37:719][995]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.04.10-13.40.53:434][530]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'JumpKey' instances, change its type, and recompile?
+[2024.04.10-13.40.57:158][877]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.40.57:164][877]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.10-13.40.59:115][ 66]BlueprintLog: New page: Compile W_Controls_Settings_Pause
+[2024.04.10-13.40.59:161][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.10-13.41.00:617][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.41.00:670][196]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.41.00:671][196]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_PauseDA487B074C664B2B8F233287DAE00ED6.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.41.00:675][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.93 sec)
+[2024.04.10-13.41.00:677][196]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.41.00:677][196]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.41.57:444][587]BlueprintLog: New page: Compile W_Controls_Settings_Pause
+[2024.04.10-13.41.57:491][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.10-13.41.58:713][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.41.58:761][716]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.41.58:762][716]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Pause3FB90C7F49B876B3F52A53B569EB8551.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.41.58:766][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.98 sec)
+[2024.04.10-13.41.58:767][716]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.41.58:767][716]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.46.14:272][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.46.14:332][255]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.46.14:332][255]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_PauseF4503E9041634C75137CBD90F5E5C530.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.46.14:337][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.05 sec)
+[2024.04.10-13.46.14:338][255]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.46.14:338][255]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.46.15:922][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-13.46.15:932][388]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.10-13.46.15:932][388]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.04.10-13.46.15:951][388]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 19 ms (total: 157 ms)
+[2024.04.10-13.46.15:951][388]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.10-13.46.15:954][388]LogPlayLevel: [PlayLevel] Compiling W_Controls_Settings_Menu before play...
+[2024.04.10-13.46.16:024][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.10-13.46.16:034][388]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2024.04.10-13.46.16:034][388]PIE: New page: PIE session: Zip-It (10 Apr 2024, 15:46:16)
+[2024.04.10-13.46.16:067][388]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.46.16:163][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095592s)
+[2024.04.10-13.46.16:163][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.095633s)
+[2024.04.10-13.46.16:179][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.10-13.46.16:181][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.46.16:181][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.46.16:182][388]LogAIModule: Creating AISystem for world Zip-It
+[2024.04.10-13.46.16:183][388]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.10-13.46.16:183][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.10-13.46.16:183][388]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.10-13.46.16:183][388]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.10-13.46.16:208][388]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.04.10-13.46.16:208][388]LogWorldPartition: Display: WorldPartition initialize took 24 ms (total: 5.96 sec)
+[2024.04.10-13.46.16:208][388]LogPlayLevel: PIE: World Init took: (0.026920s)
+[2024.04.10-13.46.16:208][388]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-13.46.16:208][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-13.46.16:208][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-13.46.16:209][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-13.46.16:209][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-13.46.16:209][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-13.46.16:210][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-13.46.16:231][388]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.10-13.46.16:231][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-13.46.16:231][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-13.46.16:231][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-13.46.16:232][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.10-13.46.16:232][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.10-13.46.16:233][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.10-13.46.16:233][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.10-13.46.16:233][388]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.10-13.46.16:233][388]LogAudio: Display: Audio Device (ID: 9) registered with world 'Zip-It'.
+[2024.04.10-13.46.16:233][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.10-13.46.16:235][388]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-13.46.16:318][388]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.04.10-14.46.16
+[2024.04.10-13.46.16:318][388]LogWorld: Bringing up level for play took: 0.082231
+[2024.04.10-13.46.16:320][388]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.10-13.46.16:326][388]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:352D
+[2024.04.10-13.46.16:326][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.04.10-13.46.16:327][388]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.04.10-13.46.16:327][388]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.10-13.46.16:327][388]PIE: Server logged in
+[2024.04.10-13.46.16:328][388]PIE: Play in editor total start time 0.396 seconds.
+[2024.04.10-13.46.19:647][596]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-13.46.19:647][596]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.10-13.46.19:647][596]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.10-13.46.21:751][756]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:009F
+[2024.04.10-13.46.21:751][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.21:751][756]LogScript: Warning: Accessed None
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0080
+[2024.04.10-13.46.21:751][756]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.26:691][142]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:061B
+[2024.04.10-13.46.26:691][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Unmap Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.26:691][142]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0661
+[2024.04.10-13.46.26:691][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Map Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.28:700][299]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:061B
+[2024.04.10-13.46.28:700][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Unmap Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.28:700][299]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0661
+[2024.04.10-13.46.28:700][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Map Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.46.31:237][498]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-13.46.31:237][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.10-13.46.37:758][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.46.37:758][965]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.46.37:759][965]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-13.46.37:790][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.46.37:791][965]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.04.10-13.46.37:795][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-13.46.37:802][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.46.37:828][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-13.46.37:828][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.10-13.46.37:828][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.10-13.46.37:830][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.10-13.46.37:834][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.46.37:849][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.10-13.46.37:955][966]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.10-13.46.39:633][ 86]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.46.39:639][ 86]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.47.48:961][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.47.49:024][702]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.47.49:024][702]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Pause03F0E4654B100968E29261A24086F2A3.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.47.49:028][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.11 sec)
+[2024.04.10-13.47.49:031][702]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.47.49:031][702]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.47.53:728][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-13.47.53:737][116]LogContentBundle: [Zip-It(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.10-13.47.53:737][116]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' started...
+[2024.04.10-13.47.53:756][116]LogWorldPartition: Display: GenerateStreaming for 'Zip-It' took 19 ms (total: 176 ms)
+[2024.04.10-13.47.53:756][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-13.47.53:756][116]PIE: New page: PIE session: Zip-It (10 Apr 2024, 15:47:53)
+[2024.04.10-13.47.53:787][116]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.47.53:881][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093738s)
+[2024.04.10-13.47.53:881][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Zip-It.Zip-It to /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It (0.093773s)
+[2024.04.10-13.47.53:898][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.10-13.47.53:905][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-13.47.53:905][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-13.47.53:905][116]LogAIModule: Creating AISystem for world Zip-It
+[2024.04.10-13.47.53:907][116]LogWorldPartition: ULevel::OnLevelLoaded(Zip-It)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.10-13.47.53:907][116]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.10-13.47.53:907][116]LogWorldPartition: UWorldPartition::Initialize : World = Zip-It, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.10-13.47.53:907][116]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.10-13.47.53:932][116]LogContentBundle: [Zip-It(Standalone)] Creating new contrainer.
+[2024.04.10-13.47.53:932][116]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 5.99 sec)
+[2024.04.10-13.47.53:932][116]LogPlayLevel: PIE: World Init took: (0.027190s)
+[2024.04.10-13.47.53:932][116]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-13.47.53:932][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-13.47.53:932][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-13.47.53:933][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-13.47.53:933][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-13.47.53:933][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-13.47.53:934][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-13.47.53:954][116]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.10-13.47.53:954][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-13.47.53:954][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-13.47.53:954][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-13.47.53:955][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.10-13.47.53:955][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.10-13.47.53:956][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.10-13.47.53:956][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.10-13.47.53:956][116]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.10-13.47.53:956][116]LogAudio: Display: Audio Device (ID: 10) registered with world 'Zip-It'.
+[2024.04.10-13.47.53:956][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.10-13.47.53:959][116]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-13.47.54:043][116]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It up for play (max tick rate 0) at 2024.04.10-14.47.54
+[2024.04.10-13.47.54:044][116]LogWorld: Bringing up level for play took: 0.083913
+[2024.04.10-13.47.54:046][116]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.04.10-13.47.54:051][116]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:352D
+[2024.04.10-13.47.54:052][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.04.10-13.47.54:052][116]LogScript: Warning: Script Msg: The widget 'UI_Stamina_C_0' was already added to the screen.
+[2024.04.10-13.47.54:052][116]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It.Zip-It:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.10-13.47.54:052][116]PIE: Server logged in
+[2024.04.10-13.47.54:053][116]PIE: Play in editor total start time 0.316 seconds.
+[2024.04.10-13.47.55:589][220]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-13.47.55:589][220]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.10-13.47.55:589][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.10-13.47.57:344][365]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:009F
+[2024.04.10-13.47.57:344][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.47.57:344][365]LogScript: Warning: Accessed None
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0080
+[2024.04.10-13.47.57:344][365]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoop Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.48.01:019][670]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:061B
+[2024.04.10-13.48.01:019][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Unmap Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.48.01:019][670]LogScript: Warning: Accessed None trying to read property MappingContext
+	W_Controls_Settings_Pause_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.W_Pause_Menu_C_0.WidgetTree_0.W_Settings_Pause_C_0.WidgetTree_0.W_Controls_Settings_Pause_C_0
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0661
+[2024.04.10-13.48.01:019][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MappingContext". Node:  Map Key Graph:  EventGraph Function:  Execute Ubergraph W Controls Settings Pause Blueprint:  W_Controls_Settings_Pause
+[2024.04.10-13.48.03:465][873]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-13.48.03:465][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.10-13.48.07:518][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.48.07:518][138]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Zip-It
+[2024.04.10-13.48.07:519][138]LogWorld: UWorld::CleanupWorld for Zip-It, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-13.48.07:550][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.48.07:551][138]LogContentBundle: [Zip-It(Standalone)] Deleting container.
+[2024.04.10-13.48.07:554][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-13.48.07:563][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-13.48.07:589][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-13.48.07:589][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.10-13.48.07:589][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.10-13.48.07:591][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.10-13.48.07:595][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-13.48.07:608][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.10-13.48.07:719][139]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.04.10-13.48.09:015][209]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.48.09:034][209]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-13.48.41:707][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.48.41:770][364]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-13.48.41:770][364]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_PauseEB9A483E4C1B73545F89E5B1E84D70DA.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-13.48.41:774][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.18 sec)
+[2024.04.10-13.48.41:777][364]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-13.48.41:777][364]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-13.48.43:784][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.48.43:842][545]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Menu
+[2024.04.10-13.48.43:842][545]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Menu56106810459708667F4BBBB048491554.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Menu.uasset'
+[2024.04.10-13.48.43:847][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.24 sec)
+[2024.04.10-13.48.43:849][545]AssetCheck: New page: Asset Save: W_Controls_Settings_Menu
+[2024.04.10-13.48.43:849][545]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
+[2024.04.10-13.48.46:997][857]LogSlate: Window 'W_Controls_Settings_Menu' being destroyed
+[2024.04.10-13.48.49:379][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
