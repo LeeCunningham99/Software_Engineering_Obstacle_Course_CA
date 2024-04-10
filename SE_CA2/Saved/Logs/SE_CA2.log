@@ -2409,3 +2409,49 @@ Make sure 'W_Controls_Settings_Pause_C' has been compiled for  Set JumpKey
 [2024.04.10-13.48.43:849][545]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Menu.W_Controls_Settings_Menu
 [2024.04.10-13.48.46:997][857]LogSlate: Window 'W_Controls_Settings_Menu' being destroyed
 [2024.04.10-13.48.49:379][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.10-13.53.32:285][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.10-13.53.32:290][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Zip-It' took 0.024
+[2024.04.10-13.53.32:291][713]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.10-13.53.32:395][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.10-13.53.32:395][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.10-13.53.32:495][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.04.10-13.53.32:495][713]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_ThirdPersonCharacter_Auto5CF4A5BD449CC150B8C95DCB5E3AA9E1F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.04.10-13.53.32:496][713]LogFileHelpers: Auto-saving content packages took 0.205
+[2024.04.10-13.53.36:910][727]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.10-13.53.37:032][727]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_2:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.53.37:032][727]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_4:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.53.37:033][727]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Manny_C /Engine/Transient.World_1:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Manny_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:03A4
+[2024.04.10-13.53.37:058][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.10-13.53.38:464][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-13.53.38:643][814]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.10-13.53.38:643][814]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/BP_ThirdPersonCharacter1C99178F4BAD74E1F9813AB5BD87693F.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.10-13.53.38:651][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 2.43 sec)
+[2024.04.10-13.53.38:652][814]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.10-13.53.38:652][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.10-13.54.54:386][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.10-14.01.03:989][206]BlueprintLog: New page: Compile W_Controls_Settings_Pause
+[2024.04.10-14.01.04:042][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.04.10-14.01.04:088][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetLocalPlayerSubsystem_ReturnValue
+	W_Controls_Settings_Pause_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:W_Controls_Settings_Pause_C_11
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0042
+[2024.04.10-14.01.04:208][207]LogScript: Warning: Accessed None trying to read property CallFunc_GetLocalPlayerSubsystem_ReturnValue
+	W_Controls_Settings_Pause_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:W_Controls_Settings_Pause_C_11
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0042
+[2024.04.10-14.01.04:923][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-14.01.04:955][288]LogScript: Warning: Accessed None trying to read property CallFunc_GetLocalPlayerSubsystem_ReturnValue
+	W_Controls_Settings_Pause_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:W_Controls_Settings_Pause_C_11
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0042
+[2024.04.10-14.01.04:981][288]LogSavePackage: Moving output files for package: /Game/UI/W_Controls_Settings_Pause
+[2024.04.10-14.01.04:981][288]LogSavePackage: Moving 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Saved/W_Controls_Settings_Pause9076E0584A413905F776938D1D0B30D7.tmp' to 'E:/MSc_Computer_Animation/Y1/Software_Engineering/Software_Engineering_Obstacle_Course_CA/SE_CA2/Content/UI/W_Controls_Settings_Pause.uasset'
+[2024.04.10-14.01.04:986][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.49 sec)
+[2024.04.10-14.01.04:988][288]AssetCheck: New page: Asset Save: W_Controls_Settings_Pause
+[2024.04.10-14.01.04:988][288]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause
+[2024.04.10-14.01.04:999][289]LogScript: Warning: Accessed None trying to read property CallFunc_GetLocalPlayerSubsystem_ReturnValue
+	W_Controls_Settings_Pause_C /Game/ThirdPerson/Maps/Zip-It.Zip-It:W_Controls_Settings_Pause_C_11
+	Function /Game/UI/W_Controls_Settings_Pause.W_Controls_Settings_Pause_C:ExecuteUbergraph_W_Controls_Settings_Pause:0042
